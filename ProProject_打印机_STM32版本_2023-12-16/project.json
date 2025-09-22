@@ -1,0 +1,3438 @@
+{
+  "schematics": {
+    "dcd7ddee3418402db00db31b6ddd4e1f": {
+      "name": "Schematic4_6",
+      "sheets": [
+        {
+          "name": "主控",
+          "id": 2
+        },
+        {
+          "name": "外设",
+          "id": 1
+        }
+      ]
+    }
+  },
+  "pcbs": {
+    "45e5d99a645446498e4c6d9872ddbb4c": "PCB4_6"
+  },
+  "panels": {},
+  "symbols": {
+    "70f964a04f75403bb45cb2d723d82fc2": {
+      "source": "d0633d789f494ddaaf8622ae245bb427|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"电容\",\"贴片电容(MLCC)\"]",
+      "title": "0603CG200F500NT",
+      "version": "1684984855",
+      "type": 2
+    },
+    "3f58ff510ad9402682b3f987d8832f2d": {
+      "source": "e23085a8f904493eb2ce369cbc1b267c|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "10KΩ (1002) ±1%",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "0603WAF1002T5E",
+      "version": "1666297131",
+      "type": 2
+    },
+    "effd076074a44686bc4b1b977f94e048": {
+      "source": "6d3562bdc96243ae97feaf073d2c8f4e|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "100KΩ (1003) ±1%",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "0603WAF1003T5E",
+      "version": "1666742553",
+      "type": 2
+    },
+    "40464c98b3f14a12a5b1a526a4bb6de5": {
+      "source": "64fc0a66bc9041ec8355d4694ba5a67e|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "15KΩ (1502) ±1%",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "0603WAF1502T5E",
+      "version": "1666556286",
+      "type": 2
+    },
+    "d5e1295ebc264b0baf352339ee2331c5": {
+      "source": "5146a8bc410f4c83ac9a8eade05faf3b|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "180Ω (1800) ±1%",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "0603WAF1800T5E",
+      "version": "1666816046",
+      "type": 2
+    },
+    "5aab0beabe9340d0bb1d4683db2bd99e": {
+      "source": "c3d76ecd42d649c98163049793df89b9|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "2KΩ (2001) ±1%",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "0603WAF2001T5E",
+      "version": "1672239604",
+      "type": 2
+    },
+    "451ca2329ab04c808b0d28d1b3124aba": {
+      "source": "c3d76ecd42d649c98163049793df89b9|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "2KΩ (2001) ±1%",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "0603WAF2001T5E",
+      "version": "1666469629",
+      "type": 2
+    },
+    "53f38ff8f7f342e983ff1d34b5713cd0": {
+      "source": "257d454c70664df2be7fd1a9b9322da9|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "24KΩ (2402) ±1%",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "0603WAF2402T5E",
+      "version": "1667507007",
+      "type": 2
+    },
+    "06c2e808abba4f699b002898d2f835a4": {
+      "source": "1f82ddd4a902433e9e7dbe8a0f3d4816|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "33KΩ (3302) ±1%",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "0603WAF3302T5E",
+      "version": "1673202609",
+      "type": 2
+    },
+    "afeef957f6bf4b8895a426b79d914f13": {
+      "source": "ab4a1b05c63347fc877e30d15b95594f|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "0603WAF5101T5E",
+      "version": "1672800908",
+      "type": 2
+    },
+    "c4e08cea57d1491cb83d0608d6094f2a": {
+      "source": "45e0569076344eb0b6e52d4a2b2d442c|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "56KΩ (5602) ±1%",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "0603WAF5602T5E",
+      "version": "1667592786",
+      "type": 2
+    },
+    "3b6b49a07df8431f918ebe25d5daf2ac": {
+      "source": "fbdf0ef80ab743608df2819142c57bf9|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "11KΩ (113) ±5%",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "0603WAJ0113T5E",
+      "version": "1672255204",
+      "type": 2
+    },
+    "659b565b1817480d9b03237e5b0f7b77": {
+      "source": "460cff29675148b68fe0fc81cdd891c3|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Inductors/Coils/Transformers\",\"Power Inductors\"]",
+      "title": "1255AY-4R7M=P3",
+      "version": "1677644437",
+      "type": 2
+    },
+    "1ef287e090094c67807302b7acb2b7f4": {
+      "source": "332d36af2d4a413eb776ead7b3a0d7b6|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Connectors\",\"USB Connectors\"]",
+      "title": "20009-UCAF001-X",
+      "version": "1672872312",
+      "type": 2
+    },
+    "22eaaabb940b4e46ae905ff3687be075": {
+      "source": "c3b6163e06f0471fab397fe3b566fabb|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Triode/MOS Tube/Transistor\",\"MOSFETs\"]",
+      "title": "AO3400A_C347475",
+      "version": "1666726957",
+      "type": 2
+    },
+    "f0aef4c2f8814426bb006632e74ee2bb": {
+      "source": "e4938dfea5834cdc8e143a12d0e41295|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Triode/MOS Tube/Transistor\",\"MOSFETs\"]",
+      "title": "AO4407A_C2841482",
+      "version": "1664159402",
+      "type": 2
+    },
+    "75a0b0fb48894bf2a1aab636ea67fb4f": {
+      "source": "30787e91b7514707a10e42d0f0937120|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Power Supply Chip\",\"DC-DC Converters\"]",
+      "title": "AP2005SPER",
+      "version": "1672608604",
+      "type": 2
+    },
+    "dbcb474883194213b037287c6b0e37b5": {
+      "source": "061a2c804ac94030b09af596bddca03c|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "100nF (104) ±10% 50V",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"电容\",\"贴片电容(MLCC)\"]",
+      "title": "CC0603KRX7R9BB104",
+      "version": "1685600403",
+      "type": 2
+    },
+    "f43a78f5ba5448318ede4162e776ce62": {
+      "source": "72880044631c4d34b5449ac07ae978b8|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "CESD5V0D3 ZA",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"TVS/Fuse/Board Level Protection\",\"ESD Protection Devices\"]",
+      "title": "CESD5V0D3 ZA",
+      "version": "1672237502",
+      "type": 2
+    },
+    "11b57c3f43184bc0b2df40a6aa06bce8": {
+      "source": "7ee12203ce22419bb02b8b8f01c8a92c|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Communication Interface Chip/UART/485/232\",\"USB ICs\"]",
+      "title": "CH340C",
+      "version": "1667331392",
+      "type": 2
+    },
+    "f3135a5c266a471782dae9747e5d3417": {
+      "source": "2113e3c6f65a42489cd7b8c76623e609|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"通信接口芯片/UART/485/232\",\"USB芯片\"]",
+      "title": "CH340N_C2977777",
+      "version": "1681721103",
+      "type": 2
+    },
+    "d40908416410429c9b4f8bedb7b99238": {
+      "source": "e92a0c4e0c82442c95b9f681928ac7a5|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "1uF (105) ±10% 50V",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]",
+      "title": "CL10A105KB8NNNC",
+      "version": "1678274722",
+      "type": 2
+    },
+    "69a664ce59c34e1b85f7a4b2daf18799": {
+      "source": "7018fa622ef1481b96bac17b37d432c0|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]",
+      "title": "CL10A106MA8NRNC",
+      "version": "1667957761",
+      "type": 2
+    },
+    "1c429b1a23a542218110063ca47d80d4": {
+      "source": "7018fa622ef1481b96bac17b37d432c0|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]",
+      "title": "CL10A106MA8NRNC",
+      "version": "1672470603",
+      "type": 2
+    },
+    "4e72b31243b440bebb69ae835619d926": {
+      "source": "7dff4cddcd7b4c958224a93f647660df|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "4.7uF (475) ±10% 25V",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]",
+      "title": "CL10A475KA8NQNC",
+      "version": "1668024529",
+      "type": 2
+    },
+    "e83d02bf0a324ae4ab126ea3bbad4934": {
+      "source": "7e4a3fa416de498785d4b983a65978c9|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "100nF (104) ±10% 50V",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]",
+      "title": "CL10B104KB8NNNC",
+      "version": "1667679387",
+      "type": 2
+    },
+    "c1ac10186fb9470b8c05a1721ca23888": {
+      "source": "5760692dcafd463fb98b5c7c7a40e485|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]",
+      "title": "CL31A476MPHNNNE",
+      "version": "1678255251",
+      "type": 2
+    },
+    "5144cd40bc4443b9a28a2516c32ed466": {
+      "source": "af07fb8301014d6eb2619b7d989a47aa|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "ERA3VEB1001V",
+      "version": "1673101209",
+      "type": 2
+    },
+    "c1a05d4aae2b436a98b281337c3a6672": {
+      "source": "745c1a346c2740e1a5ab086c8eec2947|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "ERA3VEB1003V",
+      "version": "1673102405",
+      "type": 2
+    },
+    "0c5470e25ffb4c7da5993e93a63b265e": {
+      "source": "b72fe5ae510a42938e0a317ff226cfb2|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "ERJ-3EKF1002V",
+      "version": "1642736429",
+      "type": 2
+    },
+    "155e5dbf3294488dbd63b618151982e3": {
+      "source": "309b36bd71614181a2543e848e35689a|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "esp32-s",
+      "version": "1667391403",
+      "type": 2
+    },
+    "ccc23a0864c24dbd9e949432e8805426": {
+      "source": "d4213f636c3f4c12bd6f845c1d1c18ca|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "LED",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Optocoupler/LED/Digital Tube/Photoelectric Device\",\"Light Emitting Diodes (LED)\"]",
+      "title": "FC-DA1608HRK-620D",
+      "version": "1668566441",
+      "type": 2
+    },
+    "a67ce204a85b4fcf84964e648171e3e4": {
+      "source": "542d01b8b25e4236a453d7437c3944df|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[null,null]",
+      "title": "Ground-GND",
+      "version": "1684225550",
+      "type": 18
+    },
+    "a96c76ac25fa4c65ae7ef0e32860dd98": {
+      "source": "d89b4434a7ed4c54b60d4083b90ef0b8|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "ground-gnd",
+      "version": "1667391403",
+      "type": 18
+    },
+    "eee1b47c7a5a4e579d2c83af09942dff": {
+      "source": "7051e03cb278466db722de34b6d9a90e|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Operational Amplifier/Comparator\",\"Comparators\"]",
+      "title": "LM393ADR_C404321",
+      "version": "1641819240",
+      "type": 2
+    },
+    "69fc589d6e9d48b2967736f4cc37d48f": {
+      "source": "4873e6a1c2884bdb9fb9c01a037c4f65|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Power Supply Chip\",\"Battery Management ICs\"]",
+      "title": "ME4054BM5G-N",
+      "version": "1673111410",
+      "type": 2
+    },
+    "cdb3c9dd2a484e99ae804877c8956217": {
+      "source": "dba29efb7b694dd087ea9b10955529a8|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "mt18n1r5c500ct",
+      "version": "1667391403",
+      "type": 2
+    },
+    "cb7baccbfeb94460a6166b9f9de784a8": {
+      "source": "9efc5969ac6c4c83b5123274296715d2|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "Netport-IN",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "Netport-IN",
+      "version": "1635849558",
+      "type": 19
+    },
+    "5dcfe39e8fa54696bc485941c5ccbb12": {
+      "source": "886278409be54d11a143e9ce378c7103|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "Netport-OUT",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "Netport-OUT",
+      "version": "1635849615",
+      "type": 19
+    },
+    "4a9414fa777d4187827d5a3c4e7290ac": {
+      "source": "c1b8b751a29345708c24bcef9a67e2b3|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "Power-VCC",
+      "version": "1659060554",
+      "type": 18
+    },
+    "364ad40a909b422ea170fd5bc7b92f08": {
+      "source": "fc7e6d37102d4b7db377a985c310351c|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "power-vcc",
+      "version": "1667391403",
+      "type": 18
+    },
+    "353883bb064c4b58bdb322c6ccce4982": {
+      "source": "5250555097b84847a15266f0dff7e9b3|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"连接器\",\"排针\"]",
+      "title": "PZ254-1-04-W-8.5",
+      "version": "1688010983",
+      "type": 2
+    },
+    "80fe04185e2948b0a9ab3a93ec41110a": {
+      "source": "f22306803e61488fba3a635d39befcfd|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "32.768KHz ±20ppm 12.5pF",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"晶振/振荡器/谐振器\",\"无源晶振\"]",
+      "title": "Q13FC1350000400",
+      "version": "1683873738",
+      "type": 2
+    },
+    "f856398aa0dc4786a6b94089f5760158": {
+      "source": "09c02aa6c67f4a24884df6007d3352fd|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"物联网/通信模块\",\"蓝牙模块\"]",
+      "title": "RC6621A",
+      "version": "1680837903",
+      "type": 2
+    },
+    "0bd39ef462fa4e23864f4bb0938e60a5": {
+      "source": "27fac3db8b8e4bde89463c95ffb8c4a5|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]",
+      "title": "RMC06031K1%N",
+      "version": "1667791589",
+      "type": 2
+    },
+    "b3a336fdc20445f2b681768ceb573fce": {
+      "source": "60e205af420441cba3bafae38f4579b0|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "sg73p1jttd1002f",
+      "version": "1667391403",
+      "type": 2
+    },
+    "2b4beacef5ac453da7f92cf5178e1b05": {
+      "source": "174356fb8deb4a2da0aa9191718b2cac|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"\",\"\"]",
+      "title": "Sheet-Symbol_A2",
+      "version": "1661248168",
+      "type": 20
+    },
+    "e16ebb559c654a9f87b77207f9e51d2f": {
+      "source": "32b9c021330d4f1e8b302cb815340f76|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Diodes\",\"Schottky Barrier Diodes (SBD)\"]",
+      "title": "SS54_C727065",
+      "version": "1672829415",
+      "type": 2
+    },
+    "cf7c86c0279c4bf3acd94310e46e5eb1": {
+      "source": "f374b616b83c40da87a0da614231085c|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Triode/MOS Tube/Transistor\",\"Bipolar Transistors - BJT\"]",
+      "title": "SS8050-H",
+      "version": "1667957413",
+      "type": 2
+    },
+    "be662c8e98204a358875a9b8fdc80a2c": {
+      "source": "69d0c25e5f044d4e9a1f7a574b297717|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"单片机/微控制器\",\"单片机(MCU/MPU/SOC)\"]",
+      "title": "STM32F103CBT6",
+      "version": "1684486296",
+      "type": 2
+    },
+    "1458bfc8059f4d2e96106c7013bfc616": {
+      "source": "0b2c906df22f4a1da921485b28ef5ffd|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Key/Switch\",\"Slide Switches\"]",
+      "title": "TA-3525-A3",
+      "version": "1675224903",
+      "type": 2
+    },
+    "e6ce0ce5a2ae49848718d91cc4e52d79": {
+      "source": "e86ab930702d45b583f94a4f8872fbc7|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "TC1508S",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Power Supply Chip\",\"Motor Driver ICs\"]",
+      "title": "TC1508S",
+      "version": "1641818158",
+      "type": 2
+    },
+    "e436f71ce70646edabba2f862643f9b3": {
+      "source": "0ef2c756326f421eab3c316c79eda910|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "Test-Point",
+      "version": "1685024678",
+      "type": 2
+    },
+    "b8d632f330b04e1082bec834014ec5e5": {
+      "source": "1caadb6a6692437f924e119a35ffe396|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Optocoupler/LED/Digital Tube/Photoelectric Device\",\"Light Emitting Diodes (LED)\"]",
+      "title": "TLMG1100-GS08",
+      "version": "1673169914",
+      "type": 2
+    },
+    "adc633e00d774cdc9950f2870bab89ac": {
+      "source": "723b3d91764742c3ad562eb3efe239b7|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"按键/开关\",\"轻触开关\"]",
+      "title": "TS-1088-AR02016",
+      "version": "1681464334",
+      "type": 2
+    },
+    "36c21ebe596a4f73b33450aa0d186e40": {
+      "source": "246f7d5025ba49c280de1ad1f245c9af|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Key/Switch\",\"Tactile Switches\"]",
+      "title": "TS4538B3JTP 250GF 121",
+      "version": "1653740031",
+      "type": 2
+    },
+    "3ecba4022b29466595f65b54dfa3f2ef": {
+      "source": "9720a3723edf4a45a1d5f02041eefe22|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Connectors\",\"FFC/FPC Connectors\"]",
+      "title": "X10B25L30T",
+      "version": "1667870710",
+      "type": 2
+    },
+    "09fe206bbae44d81b15094b9f9f66bca": {
+      "source": "6da3ed35f1bc43958387c204a5262aab|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"晶振/振荡器/谐振器\",\"无源晶振\"]",
+      "title": "X32258MOB4SI",
+      "version": "1694692802",
+      "type": 2
+    },
+    "c63f231ce76048cfbbcec1a7c986f5db": {
+      "source": "23922bee11c44e18821d40e62d1adb3b|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"晶振/振荡器/谐振器\",\"无源晶振\"]",
+      "title": "X50328MSB2GI",
+      "version": "1694692804",
+      "type": 2
+    },
+    "d4e7090fe7c74adebaca6b6c740cb63c": {
+      "source": "28437a395bbd4b808ea07a5b54aa4687|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Power Supply Chip\",\"Linear Voltage Regulators (LDO)\"]",
+      "title": "XC6210B332MR_C424705",
+      "version": "1673255421",
+      "type": 2
+    },
+    "fa9d349edc2f427f8d626cb28d4c9b1a": {
+      "source": "7aada66f68fd46608488b0b769ac106e|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Connectors\",\"Wire To Board / Wire To Wire Connector\"]",
+      "title": "XH-2PWB_C2905024",
+      "version": "1672858812",
+      "type": 2
+    },
+    "aa72905e926043ab99ff95407bb9a648": {
+      "source": "f2baecf085944dad81faf9a0fd6bfcea|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "Sheet-Symbol_A4",
+      "version": "1689648571",
+      "type": 20
+    },
+    "31af068631bc42d58b945eed7eaa3e60": {
+      "source": "b5312e08b0534fba9fc2b038778db7e5|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Connectors\",\"USB Connectors\"]",
+      "title": "TYPE-C 16PIN 2MD(073)",
+      "version": "1688003121",
+      "type": 2
+    },
+    "84844b5cdafd4c27a9fc5934c0422c8d": {
+      "source": "542d01b8b25e4236a453d7437c3944df|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]",
+      "title": "Ground-GND",
+      "version": "1684225550",
+      "type": 18
+    },
+    "4e20ed6ac7be4552853821b29d35ea89": {
+      "source": "4c7494f4b6214278b9e197937d2463e2|0819f05c4eef4c71ace90d822a990e87",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]",
+      "title": "GRM188R60J476ME15D",
+      "version": "1678238737",
+      "type": 2
+    },
+    "2c59d3c2329e4bc7a17418b4605c6d76": {
+      "source": "",
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "",
+      "title": "Schematic4_6",
+      "version": "1694784038",
+      "type": 17
+    }
+  },
+  "footprints": {
+    "9bc6ccd609d245dcb126889145ebffaa": {
+      "title": "BULETM-SMD_18P-L15.2-W11.2-P1.27",
+      "source": "4034a74a1c524d3d928693df4109ead0|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1655694493",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"BULETM-SMD\"]"
+    },
+    "ce7bdd5df1b54a3ebaf2c83b6cab0024": {
+      "title": "C0603",
+      "source": "76d6c29a47804db487f8a92b2621751b|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1675328510",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"CAP-SMD\"]"
+    },
+    "be919b621a5940e68774eeabd86f2b1d": {
+      "title": "c0603",
+      "source": "fc614a6973e54a14928651de4e74d2ca|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1667391403",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "673c31f22786498db4419f3ec10229d5": {
+      "title": "C1206",
+      "source": "f9883b5edc654f83a19cf28e812ef37d|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1675328481",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"CAP-SMD\"]"
+    },
+    "37d798070ecf4d7e9e25a03f6fbd8726": {
+      "title": "CONN-SMD_2P-P2.50_DEALON_XH-2PWB_C2905024",
+      "source": "b404ca1132e7496c8f336d592d4e833f|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1645248980",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"CONN-SMD\"]"
+    },
+    "dd3fa60c479a4aac9b9bffc7b38dc715": {
+      "title": "CRYSTAL-SMD_L5.0-W3.2",
+      "source": "b4f59a0b7f304c32884fc356b2a3cd98|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1649414237",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"CRYSTAL-SMD\"]"
+    },
+    "ee3f988361d34991913ff7a49b89ffab": {
+      "title": "ESOP-8_L4.9-W3.9-P1.27-LS6.0-BL-EP",
+      "source": "236714646ca442a4843d26e3285daa73|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1664254528",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"ESOP-8\"]"
+    },
+    "8addb879c8c04eef8fa43bdd5b260bda": {
+      "title": "FC-135R_L3.2-W1.5",
+      "source": "b22d9227aadc4950bb33420eb2463c53|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1584671470",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"FC-135R\"]"
+    },
+    "6328f50857da4857b5362e75093944d7": {
+      "title": "FPC-SMD_X10B25U30T",
+      "source": "4678d3d5fed54de38fbfe7f251ef2240|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1649848026",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"FPC-SMD\"]"
+    },
+    "10a2efef63f2460597b844d57b98c7fe": {
+      "title": "HDR-TH_04P-P2.54-H-M-W10.4-N",
+      "source": "03b160edc6534b12b32b12b35fbd70c4|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1649559651",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"HDR-TH\"]"
+    },
+    "5926d15479534978b9d819c73c5d83da": {
+      "title": "IND-SMD_L6.0-W6.0",
+      "source": "a43ef6f12a7e4cd590c7efb8b97768e6|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1649405470",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"IND-SMD\"]"
+    },
+    "8b9725c6cd2d4fdba4ea2d836c4e21d7": {
+      "title": "KEY-SMD_3P-L4.5-W3.8-P3.00-LS4.5-BL",
+      "source": "0a5b157c8f8d4c2699c196138ff2b515|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1653891214",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"KEY-SMD\"]"
+    },
+    "fd6eb02f82db47788f94b22b7e6502ce": {
+      "title": "LED0603-R-RD_GREEN",
+      "source": "6cafb6b5f3204444b7e4a87fb520152a|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1651124763",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"LED0603\"]"
+    },
+    "4fb576ee787a4e3e90be718de70368a8": {
+      "title": "LED0603-RD_RED",
+      "source": "dbc9dd21ec144c16b38c127d4f56d0b8|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1652410339",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"LED-SMD\"]"
+    },
+    "1b559d72028f47279e9ebf8244ade226": {
+      "title": "LQFP-48_L7.0-W7.0-P0.50-LS9.0-BL",
+      "source": "db7d248fbf3949e6aaa163768e52acf8|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1652426753",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"LQFP-48\"]"
+    },
+    "8da2b4f7841a4d5dabf4d9749f044a85": {
+      "title": "OSC-SMD_4P-L3.2-W2.5-BL",
+      "source": "73c2318328304dab988b042ac644742c|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1660701955",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"OSC-SMD\"]"
+    },
+    "7e83781a10874ad6ac977d1ba552c3b0": {
+      "title": "R0603",
+      "source": "50b4943912284dab97752312e589e9e2|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1676254243",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"RES-SMD\"]"
+    },
+    "4d2b05747c0b4de6bb7e713144bfa8d6": {
+      "title": "r0603",
+      "source": "aeb69e864a1c4bc89d797b8c75d6c0c9|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1667391403",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "7c3e46676a9849c2ba72beab624d4220": {
+      "title": "SMA_L4.3-W2.6-LS5.0-RD",
+      "source": "f869598837964c68b58735f83bd7a46b|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1649914480",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SMA\"]"
+    },
+    "d4aba73084674d8bbef10905f39450a7": {
+      "title": "SOD-323_L1.8-W1.3-LS2.5-RD",
+      "source": "346e4bfebbd04c04a9f80bbf27c6dd6a|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1654915071",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SOD-323\"]"
+    },
+    "54a2429f1ef04f92bb23a4167cb50816": {
+      "title": "SOP-16_L10.0-W3.9-P1.27-LS6.0-BL",
+      "source": "43dddffb1252499eb7259dfbd128f487|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1652421590",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SOP-16\"]"
+    },
+    "b2ae6a2c66364a4ea1ca0cc85f8991f9": {
+      "title": "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL",
+      "source": "9a7a99f8efd1447bb8a97e5685d724e2|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1675329733",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SOP-8\"]"
+    },
+    "ec9a6b3c1354484eb09ff441adca15b3": {
+      "title": "SOP-8_L5.0-W4.0-P1.27-LS6.0-BL",
+      "source": "9dc8c3c77596437188be634a9fd884fc|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1652410935",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SOP-8\"]"
+    },
+    "c969144ce527434592e033172016dc2b": {
+      "title": "SOT-23-3_L2.9-W1.3-P1.90-LS2.4-BR",
+      "source": "bdad16194d454cb292a50525f39c3ffd|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1651211575",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SOT-23-3\"]"
+    },
+    "1fc005b7a589496aa92dcedce864adb3": {
+      "title": "SW-SMD_3P-L9.1-W3.5-P2.50-EH6.8",
+      "source": "daf27d2e524d4cfd9ef5dec5a926d688|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1642939390",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SW-SMD\"]"
+    },
+    "1800548098ca4f9eb05f70992d902008": {
+      "title": "SW-SMD_L3.9-W3.0-P4.45",
+      "source": "9c6368306ce24298bf2ce130f6c4bcc6|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1690847887",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"SW-SMD\"]"
+    },
+    "a585b64c38f74c10be50665d2b93d362": {
+      "title": "Test-Point-0.5mm",
+      "source": "e44e8913964d4a4db53eb387244727d6|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1685024678",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[]"
+    },
+    "c3560ef9cd7d45a7b51a910b3aab9b6c": {
+      "title": "TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL",
+      "source": "9c98ddf0edb84809836f8920592f4505|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1649570878",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"TSOT-23-5\"]"
+    },
+    "ddb6be305b514451aac4c60b8b32908c": {
+      "title": "TSOT-23-5_L2.9-W1.6-P0.95-LS2.8-BR",
+      "source": "50772b8efd884647ad64a05add7fa273|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1649435165",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"TSOT-23-5\"]"
+    },
+    "a854b4d0576b4c4e9680bd157a67eb51": {
+      "title": "TYPE-C-SMD_20009-UCAF001-X",
+      "source": "3b21dd48072c47a9a49250d26dbef6ce|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1670903994",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"TYPE-C-SMD\"]"
+    },
+    "916c2d16a0634e2ab1e842312127372a": {
+      "title": "wirelm-smd_esp32-s",
+      "source": "41e97d6eb8b14068a051e820a0732b10|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1667391403",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": ""
+    },
+    "74d8f7570de04d14975fdb028a0cade0": {
+      "title": "USB-C-SMD_TYPE-C-6PIN-2MD-073",
+      "source": "6d2767aa336740248ada56badb85c7f3|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1676639843",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"USB-C-SMD\"]"
+    },
+    "333c1fa45cc84b4ca7bcd410fb987181": {
+      "title": "C0603",
+      "source": "76d6c29a47804db487f8a92b2621751b|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1675328510",
+      "type": 4,
+      "desc": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "custom_tags": "[\"CAP-SMD\"]"
+    }
+  },
+  "devices": {
+    "57e45ff4a63f465889c86bd9ebb14b8e": {
+      "title": "0603CG200F500NT",
+      "attributes": {
+        "LCSC Part Name": "20pF ±1% 50V",
+        "Supplier Part": "C165732",
+        "Manufacturer": "FH(风华)",
+        "Manufacturer Part": "0603CG200F500NT",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20171228/C165732_15144476007261215043.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "70f964a04f75403bb45cb2d723d82fc2",
+        "Designator": "C?",
+        "Footprint": "ce7bdd5df1b54a3ebaf2c83b6cab0024",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "20pF",
+        "Tolerance": "±1%",
+        "Voltage Rated": "50V",
+        "Temperature Coefficient": "C0G",
+        "Name": "={Value}",
+        "Description": "容值:20pF;精度:±1%;额定电压:50V;材质(温度系数):C0G;"
+      },
+      "description": "容值:20pF;精度:±1%;额定电压:50V;材质(温度系数):C0G;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "https://alimg.szlcsc.com/upload/public/product/middle/20230109/4F9679DF28B105EC4DE72E9BF236C01E.jpg",
+      "source": "215236319c2b4ca88b760bdccb716d47|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1654979204",
+      "custom_tags": "[\"电容\",\"贴片电容(MLCC)\"]"
+    },
+    "02fd5e7d850e4bc29a80184dccd64bec": {
+      "title": "0603WAF1002T5E",
+      "attributes": {
+        "LCSC Part Name": "10kΩ ±1% 100mW",
+        "Supplier Part": "C25804",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF1002T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "基础库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "3f58ff510ad9402682b3f987d8832f2d",
+        "Designator": "R?",
+        "Footprint": "7e83781a10874ad6ac977d1ba552c3b0",
+        "3D Model": "3281a289d46d4bb1877be1eabd090e13",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "10kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:10kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;"
+      },
+      "description": "电阻类型:厚膜电阻;阻值:10kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "b948db94476e4027ac8953235755ec96|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658435056",
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]"
+    },
+    "aefa76364c1d4ad290c22443df57326a": {
+      "title": "0603WAF1003T5E",
+      "attributes": {
+        "LCSC Part Name": "100kΩ ±1% 100mW",
+        "Supplier Part": "C25803",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF1003T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "基础库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "effd076074a44686bc4b1b977f94e048",
+        "Designator": "R?",
+        "Footprint": "7e83781a10874ad6ac977d1ba552c3b0",
+        "3D Model": "3281a289d46d4bb1877be1eabd090e13",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "100kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:100kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;"
+      },
+      "description": "电阻类型:厚膜电阻;阻值:100kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "40ff282b3d594c33b798d1707d8406cb|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658090551",
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]"
+    },
+    "138e3ad38d8d48608f208e6c5828585b": {
+      "title": "0603WAF1502T5E",
+      "attributes": {
+        "LCSC Part Name": "15kΩ ±1% 100mW",
+        "Supplier Part": "C22809",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF1502T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "基础库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "40464c98b3f14a12a5b1a526a4bb6de5",
+        "Designator": "R?",
+        "Footprint": "7e83781a10874ad6ac977d1ba552c3b0",
+        "3D Model": "3281a289d46d4bb1877be1eabd090e13",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "15kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:15kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;"
+      },
+      "description": "电阻类型:厚膜电阻;阻值:15kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "d0ba2e4f71b148c8988ad726457772ca|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658259904",
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]"
+    },
+    "4aa350eef1f74f6a9a51e258a5f384b8": {
+      "title": "0603WAF1800T5E",
+      "attributes": {
+        "LCSC Part Name": "180Ω ±1% 100mW",
+        "Supplier Part": "C22828",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF1800T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "基础库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "d5e1295ebc264b0baf352339ee2331c5",
+        "Designator": "R?",
+        "Footprint": "7e83781a10874ad6ac977d1ba552c3b0",
+        "3D Model": "3281a289d46d4bb1877be1eabd090e13",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "180Ω",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:180Ω;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;"
+      },
+      "description": "电阻类型:厚膜电阻;阻值:180Ω;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "a3e9c66c895247c59c77a2ffa00260e1|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658090551",
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]"
+    },
+    "95b56355a96647afa2af87ebcd36bf48": {
+      "title": "0603WAF2001T5E",
+      "attributes": {
+        "LCSC Part Name": "2kΩ ±1% 100mW",
+        "Supplier Part": "C22975",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF2001T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "基础库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "451ca2329ab04c808b0d28d1b3124aba",
+        "Designator": "R?",
+        "Footprint": "7e83781a10874ad6ac977d1ba552c3b0",
+        "3D Model": "3281a289d46d4bb1877be1eabd090e13",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "2kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:2kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;"
+      },
+      "description": "电阻类型:厚膜电阻;阻值:2kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "6be16cec9a3d42638a80c882d111290e|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658090551",
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]"
+    },
+    "e6035cbeb49a4690a503266225f5353e": {
+      "title": "0603WAF2402T5E",
+      "attributes": {
+        "LCSC Part Name": "24kΩ ±1% 100mW",
+        "Supplier Part": "C23352",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF2402T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "基础库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "53f38ff8f7f342e983ff1d34b5713cd0",
+        "Designator": "R?",
+        "Footprint": "7e83781a10874ad6ac977d1ba552c3b0",
+        "3D Model": "3281a289d46d4bb1877be1eabd090e13",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "24kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:24kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;"
+      },
+      "description": "电阻类型:厚膜电阻;阻值:24kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "d7440366c6bf4647b8120ebde6736017|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1654979215",
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]"
+    },
+    "37fd2e8f5629490bbd6ec3b3544748ff": {
+      "title": "0603WAF3302T5E",
+      "attributes": {
+        "LCSC Part Name": "33kΩ ±1% 100mW",
+        "Supplier Part": "C4216",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF3302T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "基础库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "06c2e808abba4f699b002898d2f835a4",
+        "Designator": "R?",
+        "Footprint": "7e83781a10874ad6ac977d1ba552c3b0",
+        "3D Model": "3281a289d46d4bb1877be1eabd090e13",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "33kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:33kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;"
+      },
+      "description": "电阻类型:厚膜电阻;阻值:33kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "128ec712f87d452584ca1e8ee098f7b9|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1657225355",
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]"
+    },
+    "b9f098a997e848c3aa36ff798e8f0045": {
+      "title": "0603WAF5101T5E",
+      "attributes": {
+        "LCSC Part Name": "5.1kΩ ±1% 100mW",
+        "Supplier Part": "C23186",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF5101T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "基础库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "afeef957f6bf4b8895a426b79d914f13",
+        "Designator": "R?",
+        "Footprint": "7e83781a10874ad6ac977d1ba552c3b0",
+        "3D Model": "6bd5cd867e9542ebae21caaf5d2d4c4d",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "5.1kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:5.1kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;"
+      },
+      "description": "电阻类型:厚膜电阻;阻值:5.1kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "b5d09b57bc354a60b86d6a6308651647|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658259904",
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]"
+    },
+    "9cfc8d540f8f4e2e8a739357b15c1636": {
+      "title": "0603WAF5602T5E",
+      "attributes": {
+        "LCSC Part Name": "56kΩ ±1% 100mW",
+        "Supplier Part": "C23206",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAF5602T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "基础库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "c4e08cea57d1491cb83d0608d6094f2a",
+        "Designator": "R?",
+        "Footprint": "7e83781a10874ad6ac977d1ba552c3b0",
+        "3D Model": "3281a289d46d4bb1877be1eabd090e13",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "56kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:56kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;"
+      },
+      "description": "电阻类型:厚膜电阻;阻值:56kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "5b160a02740a4a05b51e666ce1090eeb|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658090551",
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]"
+    },
+    "542fd44f506143688b312c2e8f197b2f": {
+      "title": "0603WAJ0113T5E",
+      "attributes": {
+        "LCSC Part Name": "11kΩ ±5% 100mW",
+        "Supplier Part": "C25983",
+        "Manufacturer": "UNI-ROYAL(厚声)",
+        "Manufacturer Part": "0603WAJ0113T5E",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200306/C422600_1E6D84923E4A46A82E41ADD87F860B5C.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "3b6b49a07df8431f918ebe25d5daf2ac",
+        "Designator": "R?",
+        "Footprint": "7e83781a10874ad6ac977d1ba552c3b0",
+        "3D Model": "3281a289d46d4bb1877be1eabd090e13",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Type": "厚膜电阻",
+        "Value": "11kΩ",
+        "Tolerance": "±5%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Overload Voltage (Max)": "75V",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "电阻类型:厚膜电阻;阻值:11kΩ;精度:±5%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;"
+      },
+      "description": "电阻类型:厚膜电阻;阻值:11kΩ;精度:±5%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:75V;工作温度范围:-55℃~+155℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "45d326cc49914aac8c7d5f5220034d52|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1655842809",
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]"
+    },
+    "1119165123ad48d0930d181831e41da4": {
+      "title": "1255AY-4R7M=P3",
+      "attributes": {
+        "LCSC Part Name": "4.7uH ±20% 4A 27.6mΩ",
+        "Supplier Part": "C160951",
+        "Manufacturer": "muRata(村田)",
+        "Manufacturer Part": "1255AY-4R7M=P3",
+        "Supplier Footprint": "SMD,6x6mm",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20180321/1B6FF4BE0FFC72AFEACC22219DD2DCA9.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "659b565b1817480d9b03237e5b0f7b77",
+        "Designator": "L?",
+        "Footprint": "5926d15479534978b9d819c73c5d83da",
+        "3D Model": "30081a2752cd45e4871fd4480d5f295c",
+        "3D Model Title": "IND-SMD_L6.0-W6.0-H4.5",
+        "3D Model Transform": "236.22,237.007,0,90,0,0,-0.005,0,0",
+        "Value": "4.7uH",
+        "Tolerance": "±20%",
+        "Rated Current": "4A",
+        "DC Resistance (DCR)": "27.6mΩ",
+        "Name": "={Value}",
+        "Description": "电感值:4.7uH;精度:±20%;额定电流:4A;直流电阻(DCR):27.6mΩ;"
+      },
+      "description": "电感值:4.7uH;精度:±20%;额定电流:4A;直流电阻(DCR):27.6mΩ;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "b909c9a62ba64942b7befca7363d11f5|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1657743647",
+      "custom_tags": "[\"Inductors/Coils/Transformers\",\"Power Inductors\"]"
+    },
+    "1e63ec9f38d3446aa4170bb51bae514d": {
+      "title": "20009-UCAF001-X",
+      "attributes": {
+        "LCSC Part Name": "TYPE C",
+        "Supplier Part": "C3148200",
+        "Manufacturer": "MINTRON(明硕)",
+        "Manufacturer Part": "20009-UCAF001-X",
+        "Supplier Footprint": "SMD",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20220705/4C04992B6F70FB490BC74B4779796E6C.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "1ef287e090094c67807302b7acb2b7f4",
+        "Designator": "U?",
+        "Footprint": "a854b4d0576b4c4e9680bd157a67eb51",
+        "3D Model": "29002642bb9c4b6d8dc8d5ceca73e07e",
+        "3D Model Title": "TYPE-C-SMD_20009-UCAF001-X",
+        "3D Model Transform": "351.9678,327.9521,0,0,0,0,0,-68.898,-43.307",
+        "Name": "={Manufacturer Part}",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "8c95ad7c8d5f44e1afa13cd186ed59af|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1661938807",
+      "custom_tags": "[\"Connectors\",\"USB Connectors\"]"
+    },
+    "6914624f65cf4aadb41f6f7e4e76de5b": {
+      "title": "AO3400A_C347475",
+      "attributes": {
+        "LCSC Part Name": "AO3400A",
+        "Supplier Part": "C347475",
+        "Manufacturer": "UMW(友台半导体)",
+        "Manufacturer Part": "AO3400A",
+        "Supplier Footprint": "SOT-23",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20190827/C347475_40CAF14D9CD0153436F5DC917B39143D.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "22eaaabb940b4e46ae905ff3687be075",
+        "Designator": "Q?",
+        "Footprint": "c969144ce527434592e033172016dc2b",
+        "3D Model": "c62791f0466c4ae2a892c056b845b0ca",
+        "3D Model Title": "SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95",
+        "3D Model Transform": "98.425,114.173,0,180,0,0,0.0005,-0.0005,0",
+        "Name": "={Manufacturer Part}",
+        "Description": "-"
+      },
+      "description": "-",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "b68850111fa243d3b18c9ddb8fac8962|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658435051",
+      "custom_tags": "[\"Triode/MOS Tube/Transistor\",\"MOSFETs\"]"
+    },
+    "e62c7774bd37437ab199029bdf9a1eed": {
+      "title": "AO4407A_C2841482",
+      "attributes": {
+        "LCSC Part Name": "AO4407A",
+        "Supplier Part": "C2841482",
+        "Manufacturer": "UMW(友台半导体)",
+        "Manufacturer Part": "AO4407A",
+        "Supplier Footprint": "SOP-8",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20220926/8EBB8ABDBC276CD6D410CF8B1BF429E7.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "f0aef4c2f8814426bb006632e74ee2bb",
+        "Designator": "Q?",
+        "Footprint": "ec9a6b3c1354484eb09ff441adca15b3",
+        "3D Model": "a3315c1c78f949e6bb82c6eaca1c53c7",
+        "3D Model Title": "SOP-8_L5.0-W4.0-H1.8-LS6.2-P1.27",
+        "3D Model Transform": "244.094,196.85,0,90,0,0,0,0,0",
+        "Type": "-",
+        "Drain Source Voltage (Vdss)": "-",
+        "Continuous Drain Current (Id)": "-",
+        "Power Dissipation (Pd)": "-",
+        "Drain Source On Resistance (RDS(on)@Vgs,Id)": "-",
+        "Gate Threshold Voltage (Vgs(th)@Id)": "-",
+        "Total Gate Charge (Qg@Vgs)": "-",
+        "Input Capacitance (Ciss@Vds)": "-",
+        "Reverse Transfer Capacitance (Crss@Vds)": "-",
+        "Name": "={Manufacturer Part}",
+        "Description": "类型:-;漏源电压(Vdss):-;连续漏极电流(Id):-;功率(Pd):-;导通电阻(RDS(on)@Vgs,Id):-;阈值电压(Vgs(th)@Id):-;栅极电荷(Qg@Vgs):-;输入电容(Ciss@Vds):-;反向传输电容(Crss@Vds):-;"
+      },
+      "description": "类型:-;漏源电压(Vdss):-;连续漏极电流(Id):-;功率(Pd):-;导通电阻(RDS(on)@Vgs,Id):-;阈值电压(Vgs(th)@Id):-;栅极电荷(Qg@Vgs):-;输入电容(Ciss@Vds):-;反向传输电容(Crss@Vds):-;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "11e8f4a2b7564943a3c7c4ff3fd38a02|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1657225377",
+      "custom_tags": "[\"Triode/MOS Tube/Transistor\",\"MOSFETs\"]"
+    },
+    "f3f5f03b5a524627a2479d1be8ad2bb7": {
+      "title": "AP2005SPER",
+      "attributes": {
+        "LCSC Part Name": "升压型 Vin=2.5V~5.5V Vout=9V",
+        "Supplier Part": "C130340",
+        "Manufacturer": "chipown(芯朋微电子)",
+        "Manufacturer Part": "AP2005SPER",
+        "Supplier Footprint": "SOP-8-EP-150mil",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20170918/C130340_1505703385511975250.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "75a0b0fb48894bf2a1aab636ea67fb4f",
+        "Designator": "U?",
+        "Footprint": "ee3f988361d34991913ff7a49b89ffab",
+        "3D Model": "d3e00daa36c445139c055a3b9efb85d2",
+        "3D Model Title": "ESOP-8_L4.9-W3.9-H1.6-LS6.0-P1.27",
+        "3D Model Transform": "240.157,192.913,0,90,0,0,0,0,0",
+        "Function": "升压型",
+        "Synchronous Rectification": "否",
+        "Number of Outputs": "1",
+        "Topology": "升压式",
+        "Input Voltage": "2.5V~5.5V",
+        "Output Voltage": "9V",
+        "Output Current (Max)": "-",
+        "Switching Frequency": "1MHz",
+        "Name": "={Manufacturer Part}",
+        "Description": "功能类型:升压型;同步整流:否;输出通道数:1;拓扑结构:升压式;输入电压:2.5V~5.5V;输出电压:9V;输出电流(最大值):-;开关频率:1MHz;"
+      },
+      "description": "功能类型:升压型;同步整流:否;输出通道数:1;拓扑结构:升压式;输入电压:2.5V~5.5V;输出电压:9V;输出电流(最大值):-;开关频率:1MHz;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "378a85f3b01f4d42a616caeb1ee0137a|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1654803817",
+      "custom_tags": "[\"Power Supply Chip\",\"DC-DC Converters\"]"
+    },
+    "cdef0bd356134fab9d6bacb28f794aa2": {
+      "title": "CC0603KRX7R9BB104",
+      "attributes": {
+        "LCSC Part Name": "100nF ±10% 50V",
+        "Supplier Part": "C14663",
+        "Manufacturer": "YAGEO(国巨)",
+        "Manufacturer Part": "CC0603KRX7R9BB104",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "基础库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20180910/C282072_33301C7F631E79921B82A8DAC6BCC5B3.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "dbcb474883194213b037287c6b0e37b5",
+        "Designator": "C?",
+        "Footprint": "ce7bdd5df1b54a3ebaf2c83b6cab0024",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "100nF",
+        "Tolerance": "±10%",
+        "Voltage Rated": "50V",
+        "Temperature Coefficient": "X7R",
+        "Name": "={Value}",
+        "Description": "容值:100nF;精度:±10%;额定电压:50V;材质(温度系数):X7R;"
+      },
+      "description": "容值:100nF;精度:±10%;额定电压:50V;材质(温度系数):X7R;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "https://alimg.szlcsc.com/upload/public/product/middle/20221228/A1C16CCD094EED3DDED0350676797070.jpg",
+      "source": "96b39256cc3f4d80bd3b503deb4f3328|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658259903",
+      "custom_tags": "[\"电容\",\"贴片电容(MLCC)\"]"
+    },
+    "68310a9767eb4834a8aa6fd274c904b0": {
+      "title": "CESD5V0D3 ZA",
+      "attributes": {
+        "LCSC Part Name": "CESD5V0D3  ZA",
+        "Supplier Part": "C22643",
+        "Manufacturer": "CJ(江苏长电/长晶)",
+        "Manufacturer Part": "CESD5V0D3 ZA",
+        "Supplier Footprint": "SOD-323",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20140301/1457707004115.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "f43a78f5ba5448318ede4162e776ce62",
+        "Designator": "E?",
+        "Footprint": "d4aba73084674d8bbef10905f39450a7",
+        "3D Model": "e9dd044ee7bf4221b3b795eb56bce7c0",
+        "3D Model Title": "SOD-323_L1.7-W1.3-H1.1-LS2.5",
+        "3D Model Transform": "98.91933,51.181,0,180,0,0,0.985,-0.0005,0",
+        "Polarity": "单向",
+        "Reverse Stand-Off Voltage (Vrwm)": "5V",
+        "Breakdown Voltage (VBR)": "6.2V",
+        "Peak Pulse Current(Ipp)@8/20us": "15A",
+        "Clamping Voltage@Ipp": "15.5V",
+        "Name": "={Manufacturer Part}",
+        "Description": "极性:单向;反向截止电压(Vrwm):5V;击穿电压(VBR):6.2V;峰值脉冲电流(Ipp)@8/20us:15A;钳位电压(Vc)@Ipp:15.5V;"
+      },
+      "description": "极性:单向;反向截止电压(Vrwm):5V;击穿电压(VBR):6.2V;峰值脉冲电流(Ipp)@8/20us:15A;钳位电压(Vc)@Ipp:15.5V;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "18714d2d84b64d07b0339ce536a4beac|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1657397238",
+      "custom_tags": "[\"TVS/Fuse/Board Level Protection\",\"ESD Protection Devices\"]"
+    },
+    "7008df48c066422398f4f2771fb60bdf": {
+      "title": "CH340C",
+      "attributes": {
+        "LCSC Part Name": "CH340C",
+        "Supplier Part": "C84681",
+        "Manufacturer": "WCH(南京沁恒)",
+        "Manufacturer Part": "CH340C",
+        "Supplier Footprint": "SOP-16_150mil",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200819/C84681_ADBED554CE321879DBD6B1D06488689C.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "11b57c3f43184bc0b2df40a6aa06bce8",
+        "Designator": "U?",
+        "Footprint": "54a2429f1ef04f92bb23a4167cb50816",
+        "3D Model": "3361a6792abf4a8f8fbca4f1924a67ee",
+        "3D Model Title": "SOP-16_L9.9-W3.9-H1.5-LS6.0-P1.27",
+        "3D Model Transform": "240.39054,393.7,0,90,0,0,0,0,0",
+        "Type": "Transceiver",
+        "Protocol": "USB 2.0",
+        "Number of Drivers/Receivers": "-",
+        "Data Rate": "2Mbps",
+        "Supply Voltage": "3.3V, 5V",
+        "Name": "={Manufacturer Part}",
+        "Description": "类型:Transceiver;协议类别:USB 2.0;驱动器/接收器数:-;数据速率:2Mbps;"
+      },
+      "description": "类型:Transceiver;协议类别:USB 2.0;驱动器/接收器数:-;数据速率:2Mbps;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "4951b3094e3e48a7b4c8c708b64932e4|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1656793252",
+      "custom_tags": "[\"Communication Interface Chip/UART/485/232\",\"USB ICs\"]"
+    },
+    "801cc52d7861460b99083360b84e0845": {
+      "title": "CH340N",
+      "attributes": {
+        "LCSC Part Name": "USB转串口芯片 CH340",
+        "Supplier Part": "C2977777",
+        "Manufacturer": "WCH(南京沁恒)",
+        "Manufacturer Part": "CH340N",
+        "Supplier Footprint": "SOP-8",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20220223/82A45E4FF89B3EDCAD50B354450A7EF4.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "f3135a5c266a471782dae9747e5d3417",
+        "Designator": "U?",
+        "Footprint": "b2ae6a2c66364a4ea1ca0cc85f8991f9",
+        "3D Model": "75c24a7891ee4dd6bdac16a7163ff87e",
+        "3D Model Title": "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL-1",
+        "3D Model Transform": "192.913,236.22,0,0,0,0,0,0,0",
+        "Name": "={Manufacturer Part}",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "https://alimg.szlcsc.com/upload/public/product/middle/20230106/149D535F8518B88D855E6D232D22D54E.jpg",
+      "source": "325695eb60964188af26323ab2a1a9ff|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1654897320",
+      "custom_tags": "[\"通信接口芯片/UART/485/232\",\"USB芯片\"]"
+    },
+    "031507e7811a43d58ccb639cdeeb7ffb": {
+      "title": "CL10A105KB8NNNC",
+      "attributes": {
+        "LCSC Part Name": "1uF ±10% 50V",
+        "Supplier Part": "C15849",
+        "Manufacturer": "SAMSUNG(三星)",
+        "Manufacturer Part": "CL10A105KB8NNNC",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "基础库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707679084.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "d40908416410429c9b4f8bedb7b99238",
+        "Designator": "C?",
+        "Footprint": "ce7bdd5df1b54a3ebaf2c83b6cab0024",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "1uF",
+        "Tolerance": "±10%",
+        "Voltage Rated": "50V",
+        "Temperature Coefficient": "X5R",
+        "Name": "={Value}",
+        "Description": "容值:1uF;精度:±10%;额定电压:50V;材质(温度系数):X5R;"
+      },
+      "description": "容值:1uF;精度:±10%;额定电压:50V;材质(温度系数):X5R;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "f4744ff7405a46a48e360c2c6fadeca3|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658090551",
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]"
+    },
+    "1c4f1eca342d4e15b6a7d941c15b8610": {
+      "title": "CL10A106MA8NRNC",
+      "attributes": {
+        "LCSC Part Name": "10uF ±20% 25V",
+        "Supplier Part": "C96446",
+        "Manufacturer": "SAMSUNG(三星)",
+        "Manufacturer Part": "CL10A106MA8NRNC",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "基础库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20170325/1490427913016.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "69a664ce59c34e1b85f7a4b2daf18799",
+        "Designator": "C?",
+        "Footprint": "ce7bdd5df1b54a3ebaf2c83b6cab0024",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "10uF",
+        "Tolerance": "±20%",
+        "Voltage Rated": "25V",
+        "Temperature Coefficient": "X5R",
+        "Name": "={Value}",
+        "Description": "容值:10uF;精度:±20%;额定电压:25V;材质(温度系数):X5R;"
+      },
+      "description": "容值:10uF;精度:±20%;额定电压:25V;材质(温度系数):X5R;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "2c0b8c28991349ce9fd1ddf484d5b92d|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658090549",
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]"
+    },
+    "1cb40ccfdf71445190ad51c44a77a431": {
+      "title": "CL10A475KA8NQNC",
+      "attributes": {
+        "LCSC Part Name": "4.7uF ±10% 25V",
+        "Supplier Part": "C69335",
+        "Manufacturer": "SAMSUNG(三星)",
+        "Manufacturer Part": "CL10A475KA8NQNC",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20161108/1478586410580.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "4e72b31243b440bebb69ae835619d926",
+        "Designator": "C?",
+        "Footprint": "ce7bdd5df1b54a3ebaf2c83b6cab0024",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "4.7uF",
+        "Tolerance": "±10%",
+        "Voltage Rated": "25V",
+        "Temperature Coefficient": "X5R",
+        "Name": "={Value}",
+        "Description": "容值:4.7uF;精度:±10%;额定电压:25V;材质(温度系数):X5R;"
+      },
+      "description": "容值:4.7uF;精度:±10%;额定电压:25V;材质(温度系数):X5R;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "a43ba5a121ce40938407cb748e50146d|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658259897",
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]"
+    },
+    "02108a353c0a4c5d9ade87833efcbdf5": {
+      "title": "CL10B104KB8NNNC",
+      "attributes": {
+        "LCSC Part Name": "100nF ±10% 50V",
+        "Supplier Part": "C1591",
+        "Manufacturer": "SAMSUNG(三星)",
+        "Manufacturer Part": "CL10B104KB8NNNC",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20160103/1457707680512.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "e83d02bf0a324ae4ab126ea3bbad4934",
+        "Designator": "C?",
+        "Footprint": "ce7bdd5df1b54a3ebaf2c83b6cab0024",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "100nF",
+        "Tolerance": "±10%",
+        "Voltage Rated": "50V",
+        "Temperature Coefficient": "X7R",
+        "Name": "={Value}",
+        "Description": "容值:100nF;精度:±10%;额定电压:50V;材质(温度系数):X7R;"
+      },
+      "description": "容值:100nF;精度:±10%;额定电压:50V;材质(温度系数):X7R;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "ac7072e4a0764739a31216c96ed3c9cc|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658259901",
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]"
+    },
+    "8a7e422563034ec6a898e503591fbfe3": {
+      "title": "CL31A476MPHNNNE",
+      "attributes": {
+        "LCSC Part Name": "47uF ±20% 10V",
+        "Supplier Part": "C96123",
+        "Manufacturer": "SAMSUNG(三星)",
+        "Manufacturer Part": "CL31A476MPHNNNE",
+        "Supplier Footprint": "1206",
+        "JLCPCB Part Class": "基础库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20170228/1488267692219.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "c1ac10186fb9470b8c05a1721ca23888",
+        "Designator": "C?",
+        "Footprint": "673c31f22786498db4419f3ec10229d5",
+        "3D Model": "e4be705b945545a48e666415e3682bd8",
+        "3D Model Title": "C1206_L3.2-W1.6-H1.3",
+        "3D Model Transform": "125.984,62.992,0,0,0,0,0,0,0",
+        "Value": "47uF",
+        "Tolerance": "±20%",
+        "Voltage Rated": "10V",
+        "Temperature Coefficient": "X5R",
+        "Name": "={Value}",
+        "Description": "容值:47uF;精度:±20%;额定电压:10V;材质(温度系数):X5R;"
+      },
+      "description": "容值:47uF;精度:±20%;额定电压:10V;材质(温度系数):X5R;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "5ba2c29884d34abf94f7673e638ea610|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658090549",
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]"
+    },
+    "3c93fc8ac6024c63aa48f89afe764f31": {
+      "title": "ERA3VEB1001V",
+      "attributes": {
+        "LCSC Part Name": "1KΩ(1001) ±0.1%",
+        "Supplier Part": "C490794",
+        "Manufacturer": "PANASONIC(松下)",
+        "Manufacturer Part": "ERA3VEB1001V",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200407/C490794_144E786BD6B5906C11E86C00580B1EF5.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "5144cd40bc4443b9a28a2516c32ed466",
+        "Designator": "R?",
+        "Footprint": "7e83781a10874ad6ac977d1ba552c3b0",
+        "3D Model": "6bd5cd867e9542ebae21caaf5d2d4c4d",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Temperature Coefficient": "±25ppm/K",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Tolerance": "±0.1%",
+        "Overload Voltage (Max)": "100V",
+        "Type": "薄膜电阻",
+        "Power(Watts)": "125mW",
+        "Value": "1kΩ",
+        "Name": "={Value}",
+        "Description": "温度系数:±25ppm/K;温度系数:±25ppm/K;工作温度范围:-55℃~+155℃;工作温度范围:-55℃~+155℃;精度:±0.1%;最大工作电压:100V;类型:薄膜电阻;功率:125mW;阻值:1kΩ;"
+      },
+      "description": "温度系数:±25ppm/K;温度系数:±25ppm/K;工作温度范围:-55℃~+155℃;工作温度范围:-55℃~+155℃;精度:±0.1%;最大工作电压:100V;类型:薄膜电阻;功率:125mW;阻值:1kΩ;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "37f0fc3745554d0ca7ca73c9425608c4|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1654894995",
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]"
+    },
+    "dd5d3f59c70f412f8fcf2e79cf4f2fea": {
+      "title": "ERA3VEB1003V",
+      "attributes": {
+        "LCSC Part Name": "100KΩ(1003) ±0.1%",
+        "Supplier Part": "C490798",
+        "Manufacturer": "PANASONIC(松下)",
+        "Manufacturer Part": "ERA3VEB1003V",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200407/C490798_08261913A826923429B8832CE4774997.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "c1a05d4aae2b436a98b281337c3a6672",
+        "Designator": "R?",
+        "Footprint": "7e83781a10874ad6ac977d1ba552c3b0",
+        "3D Model": "6bd5cd867e9542ebae21caaf5d2d4c4d",
+        "3D Model Title": "R0603",
+        "3D Model Transform": "31.8897,63.7794,0,90,0,0,0,0,0",
+        "Temperature Coefficient": "±25ppm/K",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Tolerance": "±0.1%",
+        "Overload Voltage (Max)": "100V",
+        "Type": "薄膜电阻",
+        "Power(Watts)": "125mW",
+        "Value": "100kΩ",
+        "Name": "={Value}",
+        "Description": "温度系数:±25ppm/K;温度系数:±25ppm/K;工作温度范围:-55℃~+155℃;工作温度范围:-55℃~+155℃;精度:±0.1%;最大工作电压:100V;类型:薄膜电阻;功率:125mW;阻值:100kΩ;"
+      },
+      "description": "温度系数:±25ppm/K;温度系数:±25ppm/K;工作温度范围:-55℃~+155℃;工作温度范围:-55℃~+155℃;精度:±0.1%;最大工作电压:100V;类型:薄膜电阻;功率:125mW;阻值:100kΩ;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "e04fed22d0b74173ba0b3ccaedf23c51|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1654894994",
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]"
+    },
+    "a21345e925a64b28bc432a8c594bc494": {
+      "title": "ERJ3EKF1002V",
+      "attributes": {
+        "LCSC Part Name": "10kΩ ±1%",
+        "Supplier Part": "C191124",
+        "Manufacturer": "PANASONIC(松下)",
+        "Manufacturer Part": "ERJ3EKF1002V",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20180502/C191124_A4CEFA964CCDF04BFD540D495CFFCAE0.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "0c5470e25ffb4c7da5993e93a63b265e",
+        "Designator": "R?",
+        "Footprint": "7e83781a10874ad6ac977d1ba552c3b0",
+        "3D Model": "3281a289d46d4bb1877be1eabd090e13",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "10kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Temperature Coefficient": "±100ppm/℃",
+        "Overload Voltage (Max)": "-",
+        "Operating Temperature Range": "-55℃~+155℃",
+        "Name": "={Value}",
+        "Description": "阻值:10kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:-;工作温度范围:-55℃~+155℃;"
+      },
+      "description": "阻值:10kΩ;精度:±1%;功率:100mW;温度系数:±100ppm/℃;最大工作电压:-;工作温度范围:-55℃~+155℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "8cc8dec67d794d09b864d4b0c57b1781|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1654892705",
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]"
+    },
+    "10bf4aaaa48f4c23ac2e571f6a73ec17": {
+      "title": "esp32-s",
+      "attributes": {
+        "LCSC Part Name": "ESP32-S",
+        "Supplier Part": "C277944",
+        "Manufacturer": "Ai-Thinker(安信可)",
+        "Manufacturer Part": "ESP32-S",
+        "Supplier Footprint": "SMD Module",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20211217/F4BEA33E732D6002D10DAED85BBCB52B.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "155e5dbf3294488dbd63b618151982e3",
+        "Designator": "U?",
+        "Footprint": "916c2d16a0634e2ab1e842312127372a",
+        "3D Model": "7d9ea531105848efa1d5a13d661eefcc",
+        "3D Model Title": "WIRELM-SMD_L25.5-W18.0-H2.8-ESP32-S",
+        "3D Model Transform": "708.7,1003.9,0,0,0,0,0,146.6,0",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "77b3d57caae247749842d3fe80fa3293|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1667362603",
+      "custom_tags": ""
+    },
+    "6c11c9fd48f8414cab6f6e075a344666": {
+      "title": "Ground-GND",
+      "attributes": {
+        "Global Net Name": "GND",
+        "Name": "GND",
+        "Symbol": "a67ce204a85b4fcf84964e648171e3e4",
+        "3D Model": "",
+        "3D Model Title": "",
+        "3D Model Transform": "",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "9a64ac5790a940f7ae40fc736dc6faff|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1684225550",
+      "custom_tags": "[]"
+    },
+    "3c1f527bb3784646941f22efc7e3616f": {
+      "title": "ground-gnd",
+      "attributes": {
+        "Symbol": "a96c76ac25fa4c65ae7ef0e32860dd98"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "efe2108075014eef8b57d70cca7c068b|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1667362603",
+      "custom_tags": ""
+    },
+    "47a34bfa30d74187bebefa3d2dffeed0": {
+      "title": "LM393ADR",
+      "attributes": {
+        "LCSC Part Name": "LM393ADR",
+        "Supplier Part": "C404321",
+        "Manufacturer": "UMW(友台半导体)",
+        "Manufacturer Part": "LM393ADR",
+        "Supplier Footprint": "SOP-8",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20190717/C404321_A4ABD44840A6EA97E1B271387656EEAD.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "eee1b47c7a5a4e579d2c83af09942dff",
+        "Designator": "U?",
+        "Footprint": "b2ae6a2c66364a4ea1ca0cc85f8991f9",
+        "3D Model": "75c24a7891ee4dd6bdac16a7163ff87e",
+        "3D Model Title": "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL-1",
+        "3D Model Transform": "192.913,236.22,0,0,0,0,0,0,0",
+        "Number of Elements": "-",
+        "Supply Voltage（Single）": "-",
+        "Iq per channel (Typ)": "-",
+        "Output Type": "-",
+        "Propagation Delay (Max)": "-",
+        "Operating Temperature": "-",
+        "Name": "={Manufacturer Part}",
+        "Description": "比较器组数:-;电源电压:-;各通道供电电流:-;输出类型:-;传播延迟:-;"
+      },
+      "description": "比较器组数:-;电源电压:-;各通道供电电流:-;输出类型:-;传播延迟:-;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "04f9352903344166a7fdc3d5908f797f|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1654803794",
+      "custom_tags": "[\"Operational Amplifier/Comparator\",\"Comparators\"]"
+    },
+    "82416cfd5fdb4e3c9ca5c8a42fc0ecca": {
+      "title": "ME4054BM5G-N",
+      "attributes": {
+        "LCSC Part Name": "ME4054BM5G-N",
+        "Supplier Part": "C478383",
+        "Manufacturer": "MICRONE(南京微盟)",
+        "Manufacturer Part": "ME4054BM5G-N",
+        "Supplier Footprint": "TSOT-23-5",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20191226/C478383_334A5ED125CA9F8F85F7DE0AC0ECFE6D.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "69fc589d6e9d48b2967736f4cc37d48f",
+        "Designator": "U?",
+        "Footprint": "c3560ef9cd7d45a7b51a910b3aab9b6c",
+        "3D Model": "b5108020abe84f7bb0f3c398b43b6e0b",
+        "3D Model Title": "TSOT-23-5_L2.9-W1.6-H1.00-LS2.8-P0.95",
+        "3D Model Transform": "110.45568,114.173,0,90,0,0,0.0005,0,0",
+        "Name": "={Manufacturer Part}",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "136003aa39f94d4ea125773174263700|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1657743644",
+      "custom_tags": "[\"Power Supply Chip\",\"Battery Management ICs\"]"
+    },
+    "bc489cc255c845faa21e72736853cfd5": {
+      "title": "mt18n1r5c500ct",
+      "attributes": {
+        "LCSC Part Name": "1.5pF ±0.25pF 50V",
+        "Supplier Part": "C908503",
+        "Manufacturer": "华新科(Walsin)",
+        "Manufacturer Part": "MT18N1R5C500CT",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20191217/C470045_C8EA1FED8E7D9FF06975A0CE3DEB0325.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "cdb3c9dd2a484e99ae804877c8956217",
+        "Designator": "C?",
+        "Footprint": "be919b621a5940e68774eeabd86f2b1d",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "1.5pF",
+        "Tolerance": "±0.25pF",
+        "Voltage Rated": "50V",
+        "Temperature Coefficient": "NP0",
+        "Description": "容值:1.5pF;精度:±0.25pF;额定电压:50V;温度系数:NP0;"
+      },
+      "description": "容值:1.5pF;精度:±0.25pF;额定电压:50V;温度系数:NP0;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "181d623c2b4c45c9bc1e63e99c261a8b|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1667362603",
+      "custom_tags": ""
+    },
+    "c9f992854be44fb2a32831ee0b202dd9": {
+      "title": "NCD0603R1_C84263",
+      "attributes": {
+        "LCSC Part Name": "红灯",
+        "Supplier Part": "C84263",
+        "Manufacturer": "国星光电",
+        "Manufacturer Part": "NCD0603R1",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "ccc23a0864c24dbd9e949432e8805426",
+        "Designator": "LED?",
+        "Footprint": "4fb576ee787a4e3e90be718de70368a8",
+        "3D Model": "74041d3a270d435c8600a9ab9b7641c0",
+        "3D Model Title": "LED0603-RD_RED",
+        "3D Model Transform": "63.7794,31.496,0,0,0,0,0,0,0",
+        "Emitted Color": "红灯",
+        "Name": "={Manufacturer Part}",
+        "Description": "发光颜色:红灯;"
+      },
+      "description": "发光颜色:红灯;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "7d938e3f05d04ef7abb058b22e337109|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1663036825",
+      "custom_tags": "[\"Optocoupler/LED/Digital Tube/Photoelectric Device\",\"Light Emitting Diodes (LED)\"]"
+    },
+    "ff21ff37a44f4488882df84cb62549d7": {
+      "title": "Netport-IN",
+      "attributes": {
+        "Symbol": "cb7baccbfeb94460a6166b9f9de784a8"
+      },
+      "description": "Netport-IN",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "d1791174cc834e86a381cf4678cd8f5f|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1635846431",
+      "custom_tags": "[\"特殊器件\"]"
+    },
+    "c9cbfb9f388046138ae6802ea324fdca": {
+      "title": "Netport-OUT",
+      "attributes": {
+        "Symbol": "5dcfe39e8fa54696bc485941c5ccbb12"
+      },
+      "description": "Netport-OUT",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "675cb8e8f90e4d969086d29fccac9571|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1635846395",
+      "custom_tags": "[\"特殊器件\"]"
+    },
+    "0d93adc03fb74fc7a0b0a8517cba142e": {
+      "title": "Power-VCC",
+      "attributes": {
+        "Symbol": "4a9414fa777d4187827d5a3c4e7290ac",
+        "Global Net Name": "VCC",
+        "Footprint": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "b381658129d94456b54f23250ef5a375|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1659060554",
+      "custom_tags": "[]"
+    },
+    "eeef5c31ecd04f128cb339ef28136f3e": {
+      "title": "Power-VCC",
+      "attributes": {
+        "Symbol": "364ad40a909b422ea170fd5bc7b92f08"
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "b2ca14097a6d4fd3aa62dbb24852a2f9|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1667362603",
+      "custom_tags": ""
+    },
+    "9d472eab2af34683a29d6458500c84f8": {
+      "title": "PZ254-1-04-W-8.5",
+      "attributes": {
+        "LCSC Part Name": "2.54mm 1x4P 弯插 方针",
+        "Supplier Part": "C2894946",
+        "Manufacturer": "HCTL(华灿天禄)",
+        "Manufacturer Part": "PZ254-1-04-W-8.5",
+        "Supplier Footprint": "插件,P=2.54mm",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "353883bb064c4b58bdb322c6ccce4982",
+        "Designator": "H?",
+        "Footprint": "10a2efef63f2460597b844d57b98c7fe",
+        "3D Model": "d4fff394b8a4460a8003e27b6e01ea32",
+        "3D Model Title": "HDR-TH_04P-P2.54-H-M-W10.4-N",
+        "3D Model Transform": "396.0622,409.448,0,0,0,0,0,-192.48,-118.11",
+        "Pitch": "2.54mm",
+        "Number of Pins": "4",
+        "Number of Rows": "1",
+        "Pin Structure": "1x4P",
+        "Row Spacing": "-",
+        "Mounting Type": "弯插",
+        "Circluar Pins/Square Pins": "方针",
+        "Current Rating (Max)": "3A",
+        "Voltage Rating (Max)": "-",
+        "Length of Mating Pin": "6mm",
+        "Insulation Height": "2.5mm",
+        "Length of End Connection Pin": "-",
+        "Contact Material": "-",
+        "Operating Temperature Range": "-40℃~+105℃",
+        "Color": "黑色",
+        "Name": "={Manufacturer Part}",
+        "Description": "间距:2.54mm;总PIN位数:4;排数:1;插针结构:1x4P;行距:-;安装类型:弯插;圆针/方针:方针;额定电流:3A;额定电压:-;配合针长度:6mm;塑高:2.5mm;端接针长度:-;触头材质:-;工作温度范围:-40℃~+105℃;颜色:黑色;"
+      },
+      "description": "间距:2.54mm;总PIN位数:4;排数:1;插针结构:1x4P;行距:-;安装类型:弯插;圆针/方针:方针;额定电流:3A;额定电压:-;配合针长度:6mm;塑高:2.5mm;端接针长度:-;触头材质:-;工作温度范围:-40℃~+105℃;颜色:黑色;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "https://alimg.szlcsc.com/upload/public/product/middle/20210927/FF4B4872AAAF485098AF6DFA32B43730.jpg",
+      "source": "ebd741c1878e4ac28764d70b9f6bd0a9|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1654895189",
+      "custom_tags": "[\"连接器\",\"排针\"]"
+    },
+    "4edc80884fda40fbbeebe6eec36e331f": {
+      "title": "Q13FC1350000400",
+      "attributes": {
+        "LCSC Part Name": "32.768kHz ±20ppm 12.5pF",
+        "Supplier Part": "C32346",
+        "Manufacturer": "EPSON(爱普生)",
+        "Manufacturer Part": "Q13FC1350000400",
+        "Supplier Footprint": "SMD3215-2P",
+        "JLCPCB Part Class": "基础库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20190108/C32346_746D6B07EAF90824457A96480007685F.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "80fe04185e2948b0a9ab3a93ec41110a",
+        "Designator": "X?",
+        "Footprint": "8addb879c8c04eef8fa43bdd5b260bda",
+        "3D Model": "b5334dc599ac49d68fb741bd067a525d",
+        "3D Model Title": "SMD-3215_2P_L3.2-W1.5-H0.8",
+        "3D Model Transform": "125.984,59.055,0,0,0,0,0,0,0",
+        "Crystal Type": "贴片无源晶振",
+        "Value": "32.768kHz",
+        "Frequency Tolerance": "±20ppm",
+        "Load Capacitance": "12.5pF",
+        "Equivalent Series Resistance (ESR)": "70kΩ",
+        "Operating Temperature": "-40℃~+85℃",
+        "Name": "={Value}",
+        "Description": "频率:32.768kHz;频率公差:±20ppm;负载电容:12.5pF;"
+      },
+      "description": "频率:32.768kHz;频率公差:±20ppm;负载电容:12.5pF;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "https://alimg.szlcsc.com/upload/public/product/middle/20221229/6B31E6067B7DFB0CDF2843C26547A119.jpg",
+      "source": "ba37239063d74dbf872bace697d985f3|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658435057",
+      "custom_tags": "[\"晶振/振荡器/谐振器\",\"无源晶振\"]"
+    },
+    "9152df3eabd54e2285786d4ff3ba88a3": {
+      "title": "RC6621A",
+      "attributes": {
+        "LCSC Part Name": "蓝牙5.2 BLE透传模块",
+        "Supplier Part": "C2886280",
+        "Manufacturer": "RF Crazy(智汉)",
+        "Manufacturer Part": "RC6621A",
+        "Supplier Footprint": "SMD,11x15mm",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20230407/49E21971C810D795DE5D434EE457DEDA.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "f856398aa0dc4786a6b94089f5760158",
+        "Designator": "U?",
+        "Footprint": "9bc6ccd609d245dcb126889145ebffaa",
+        "3D Model": "416245614d144168a4b8eb416ba8fb87",
+        "3D Model Title": "BULETM-SMD_18P-L15.2-W11.2-P1.27",
+        "3D Model Transform": "441.02274,598.424,0,0,0,0,0,74.96,0",
+        "Name": "={Manufacturer Part}",
+        "Description": "从机、主从一体透传协议"
+      },
+      "description": "从机、主从一体透传协议",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "https://alimg.szlcsc.com/upload/public/product/middle/20230107/BDE0E415DE354EBA8A615BCEAB5C8B06.jpg",
+      "source": "2a1d07161d3844119858c86562b0efb6|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1655842817",
+      "custom_tags": "[\"物联网/通信模块\",\"蓝牙模块\"]"
+    },
+    "ac6a344a27974a5db222dddbb2422220": {
+      "title": "RMC06031K1%N",
+      "attributes": {
+        "LCSC Part Name": "1kΩ ±1% 100mW",
+        "Supplier Part": "C269704",
+        "Manufacturer": "Tyohm(幸亚电阻)",
+        "Manufacturer Part": "RMC06031K1%N",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20190115/C269704_F6655FCC7D12D398136A4BB29A88B2DC.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "0bd39ef462fa4e23864f4bb0938e60a5",
+        "Designator": "R?",
+        "Footprint": "7e83781a10874ad6ac977d1ba552c3b0",
+        "3D Model": "3281a289d46d4bb1877be1eabd090e13",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "1kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "100mW",
+        "Name": "={Value}",
+        "Description": "阻值:1kΩ;精度:±1%;功率:100mW;"
+      },
+      "description": "阻值:1kΩ;精度:±1%;功率:100mW;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "b003a1f0d1e342bead8e0fa975a8f532|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1654893900",
+      "custom_tags": "[\"Resistors\",\"Chip Resistor - Surface Mount\"]"
+    },
+    "f51482a3a2de49318f0d0db962dcee41": {
+      "title": "sg73p1jttd1002f",
+      "attributes": {
+        "LCSC Part Name": "10kΩ ±1%",
+        "Supplier Part": "C880254",
+        "Manufacturer": "KOA",
+        "Manufacturer Part": "SG73P1JTTD1002F",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "Extended Part",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20190109/C346159_A2BB9C83E7E727C8F8277542505B206B.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "b3a336fdc20445f2b681768ceb573fce",
+        "Designator": "R?",
+        "Footprint": "4d2b05747c0b4de6bb7e713144bfa8d6",
+        "3D Model": "3281a289d46d4bb1877be1eabd090e13",
+        "3D Model Title": "R0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "10kΩ",
+        "Tolerance": "±1%",
+        "Power(Watts)": "-",
+        "Temperature Coefficient": "-",
+        "Description": "阻值:10kΩ;精度:±1%;功率:-;温度系数:-;"
+      },
+      "description": "阻值:10kΩ;精度:±1%;功率:-;温度系数:-;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "e482c14ab8ac4558a5a3633b13310b73|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1667362603",
+      "custom_tags": ""
+    },
+    "8e09cf4646564e91b73546e1a7aa607d": {
+      "title": "Sheet-Symbol_A2",
+      "attributes": {
+        "Symbol": "2b4beacef5ac453da7f92cf5178e1b05",
+        "@Page Name": "",
+        "@Create Date": "",
+        "@Page Count": "",
+        "@Page No": "",
+        "@Project Name": "",
+        "@Schematic Name": "",
+        "@Update Date": "",
+        "Company": "嘉立创EDA",
+        "Device": "",
+        "Drawed": "",
+        "Page Size": "A2",
+        "Part Number": "",
+        "Reviewed": "",
+        "Version": "V1.0",
+        "Footprint": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "403fe38fcc5c4d09a1443ba4a2edcd5d|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1664282503",
+      "custom_tags": "[\"\",\"\"]"
+    },
+    "f94ac03ebc2649eab2abba1e5a175c2d": {
+      "title": "SS54_C727065",
+      "attributes": {
+        "LCSC Part Name": "40V 5A 550mV@5A",
+        "Supplier Part": "C727065",
+        "Manufacturer": "TWGMC(台湾迪嘉)",
+        "Manufacturer Part": "SS54",
+        "Supplier Footprint": "SMA",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200828/C727064_BD0A2B36CBC76CEA4B6710C57718D41F.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "e16ebb559c654a9f87b77207f9e51d2f",
+        "Designator": "D?",
+        "Footprint": "7c3e46676a9849c2ba72beab624d4220",
+        "3D Model": "c736cb3ca85a4ea9900370751beed405",
+        "3D Model Title": "SMA_L4.4-W2.8-H2.1-LS5.4",
+        "3D Model Transform": "204.724,110.236,0,180,0,0,-0.004,-0.001,0",
+        "Diode Configuration": "独立式",
+        "Reverse Voltage (Vr)": "40V",
+        "Average Rectified Current (Io)": "5A",
+        "Forward Voltage (Vf@If)": "550mV@5A",
+        "Reverse Leakage Current (Ir)": "500uA@40V",
+        "Name": "={Manufacturer Part}",
+        "Description": "二极管配置:独立式;直流反向耐压(Vr):40V;平均整流电流(Io):5A;正向压降(Vf):550mV@5A;反向电流(Ir):500uA@40V;"
+      },
+      "description": "二极管配置:独立式;直流反向耐压(Vr):40V;平均整流电流(Io):5A;正向压降(Vf):550mV@5A;反向电流(Ir):500uA@40V;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "7ee083236ce34af6ba6603852a4c24d4|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1657743618",
+      "custom_tags": "[\"Diodes\",\"Schottky Barrier Diodes (SBD)\"]"
+    },
+    "5283fac638ed4ab786bfb60aa5dc70c0": {
+      "title": "SS8050-H",
+      "attributes": {
+        "LCSC Part Name": "NPN 25V 1.5A",
+        "Supplier Part": "C699255",
+        "Manufacturer": "YANGJIE(扬杰)",
+        "Manufacturer Part": "SS8050-H",
+        "Supplier Footprint": "SOT-23-3L",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200709/C699255_98BD284548BE18129453A2CE3A1F2C22.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "cf7c86c0279c4bf3acd94310e46e5eb1",
+        "Designator": "Q?",
+        "Footprint": "c969144ce527434592e033172016dc2b",
+        "3D Model": "c62791f0466c4ae2a892c056b845b0ca",
+        "3D Model Title": "SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95",
+        "3D Model Transform": "98.425,114.173,0,180,0,0,0.0005,-0.0005,0",
+        "Transistor Type": "NPN",
+        "Collector-Emitter Breakdown Voltage (Vceo)": "25V",
+        "Collector Current (Ic)": "1.5A",
+        "Power Dissipation (Pd)": "300mW",
+        "Collector Cut-Off Current (Icbo)": "100nA",
+        "Collector-Emitter Saturation Voltage (VCE(sat)@Ic,Ib)": "500mV@800mA,80mA",
+        "DC Current Gain (hFE@Ic,Vce)": "200@100mA,1V",
+        "Transition Frequency (fT)": "100MHz",
+        "Operating Temperature": "-55℃~+150℃@(Tj)",
+        "Name": "={Manufacturer Part}",
+        "Description": "晶体管类型:NPN;集射极击穿电压(Vceo):25V;集电极电流(Ic):1.5A;功率(Pd):300mW;集电极截止电流(Icbo):100nA;集电极-发射极饱和电压(VCE(sat)@Ic,Ib):500mV@800mA,80mA;直流电流增益(hFE@Ic,Vce):200@100mA,1V;特征频率(fT):100MHz;工作温度:-55℃~+150℃@(Tj);"
+      },
+      "description": "晶体管类型:NPN;集射极击穿电压(Vceo):25V;集电极电流(Ic):1.5A;功率(Pd):300mW;集电极截止电流(Icbo):100nA;集电极-发射极饱和电压(VCE(sat)@Ic,Ib):500mV@800mA,80mA;直流电流增益(hFE@Ic,Vce):200@100mA,1V;特征频率(fT):100MHz;工作温度:-55℃~+150℃@(Tj);",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "a6845a17f11f45158ae9b8baa7939cc4|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1654893803",
+      "custom_tags": "[\"Triode/MOS Tube/Transistor\",\"Bipolar Transistors - BJT\"]"
+    },
+    "f105f10876394127940c3aa2a1e02e1d": {
+      "title": "STM32F103CBT6",
+      "attributes": {
+        "LCSC Part Name": "ARM Cortex-M3 72MHz",
+        "Supplier Part": "C8304",
+        "Manufacturer": "ST(意法半导体)",
+        "Manufacturer Part": "STM32F103CBT6",
+        "Supplier Footprint": "LQFP-48(7x7)",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20140724/1457707170379.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "be662c8e98204a358875a9b8fdc80a2c",
+        "Designator": "U?",
+        "Footprint": "1b559d72028f47279e9ebf8244ade226",
+        "3D Model": "093be70396ff421eb2cdb946d5311efc",
+        "3D Model Title": "LQFP-48_L7.0-W7.0-H1.4-LS9.0-P0.50",
+        "3D Model Transform": "354.331,354.331,0,0,0,0,0,0,0",
+        "CPU Core": "ARM Cortex-M3",
+        "CPU Maximum Speed": "72MHz",
+        "Operating Voltage Range": "2V~3.6V",
+        "Program Storage Size": "128KB",
+        "Program Memory Type": "FLASH",
+        "RAM Size": "20KB",
+        "EEPROM": "-",
+        "GPIO Ports Number": "37",
+        "ADC (Bit)": "12bit",
+        "DAC (Bit)": "-",
+        "PWM (Bit)": "-",
+        "Universal Serial Bus": "有",
+        "Internal Comparator": "-",
+        "Peripheral/Function": "DMA；片载温度传感器；PWM",
+        "communication protocol": "-",
+        "Watchdog": "有",
+        "Real-Time Clock": "-",
+        "Infrared Data Association": "有",
+        "Low-Voltage Detect": "有",
+        "CCP Capture/Compare": "-",
+        "Secure Digital Input and Output": "-",
+        "Direct Memory Access": "有",
+        "Internal Oscillator": "有",
+        "Operating Temperature Range": "-40℃~+85℃",
+        "Name": "={Manufacturer Part}",
+        "Description": "CPU内核:ARM Cortex-M3;CPU最大主频:72MHz;程序存储容量:128KB;程序存储器类型:FLASH;RAM总容量:20KB;GPIO端口数量:37;"
+      },
+      "description": "CPU内核:ARM Cortex-M3;CPU最大主频:72MHz;程序存储容量:128KB;程序存储器类型:FLASH;RAM总容量:20KB;GPIO端口数量:37;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "https://alimg.szlcsc.com/upload/public/product/middle/20221228/80006BF0B66CF70862E6FB8686BD25FD.jpg",
+      "source": "2e9b76b643394263a08f3075a37e2781|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658174806",
+      "custom_tags": "[\"单片机/微控制器\",\"单片机(MCU/MPU/SOC)\"]"
+    },
+    "ad48ff3d1ebc4e60b363bfc734d55741": {
+      "title": "TA-3525-A3",
+      "attributes": {
+        "LCSC Part Name": "滑动开关9.1*3.5*4.0mm贴片侧拨单排三脚二档",
+        "Supplier Part": "C514020",
+        "Manufacturer": "Yuandi(元迪)",
+        "Manufacturer Part": "TA-3525-A3",
+        "Supplier Footprint": "SMD,9.1x3.5mm",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200415/C514019_BD29F4555739DB2630A1255040CB70C0.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "1458bfc8059f4d2e96106c7013bfc616",
+        "Designator": "SW?",
+        "Footprint": "1fc005b7a589496aa92dcedce864adb3",
+        "3D Model": "85ba0ce5987847a89c10244f07ac71e5",
+        "3D Model Title": "SW-SMD_3P-L9.1-W3.5-P2.50-EH6.8",
+        "3D Model Transform": "358.267,381.889,0,0,0,0,0,-157.48,-15.748",
+        "Name": "={Manufacturer Part}",
+        "Description": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "4c12ad30bbf14525863080f700e96406|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1656103228",
+      "custom_tags": "[\"Key/Switch\",\"Slide Switches\"]"
+    },
+    "ab80c27319294730859c940816ffeafb": {
+      "title": "TC1508S",
+      "attributes": {
+        "LCSC Part Name": "TC1508S",
+        "Supplier Part": "C89480",
+        "Manufacturer": "FM富满",
+        "Manufacturer Part": "TC1508S",
+        "Supplier Footprint": "SOP-16_150mil",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/watermark/20190926/C89480_A6157361397A766884EA63034F568297.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "e6ce0ce5a2ae49848718d91cc4e52d79",
+        "Designator": "U?",
+        "Footprint": "54a2429f1ef04f92bb23a4167cb50816",
+        "3D Model": "3361a6792abf4a8f8fbca4f1924a67ee",
+        "3D Model Title": "SOP-16_L9.9-W3.9-H1.5-LS6.0-P1.27",
+        "3D Model Transform": "240.39054,393.7,0,90,0,0,0,0,0",
+        "Name": "={Manufacturer Part}",
+        "Description": "双通道直流马达驱动器"
+      },
+      "description": "双通道直流马达驱动器",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "a1b16d9e09a24638a3f40f9cf4ebbe7b|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1654803664",
+      "custom_tags": "[\"Power Supply Chip\",\"Motor Driver ICs\"]"
+    },
+    "3f0c8bb4872141cf9aad435f5c6406dc": {
+      "title": "Test-Point",
+      "attributes": {
+        "Designator": "TP?",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "e436f71ce70646edabba2f862643f9b3",
+        "Name": "",
+        "3D Model": "",
+        "3D Model Title": "",
+        "3D Model Transform": "",
+        "Footprint": "a585b64c38f74c10be50665d2b93d362",
+        "Description": "Test Point 测试点"
+      },
+      "description": "Test Point 测试点",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "d45be48edf5f4f4eb9e20c75671b7f3b|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1685024678",
+      "custom_tags": "[]"
+    },
+    "ec406ac2929e4b7daf70657b40a9e372": {
+      "title": "TLMG1100-GS08",
+      "attributes": {
+        "LCSC Part Name": "普绿/黄绿 0603",
+        "Supplier Part": "C241891",
+        "Manufacturer": "VISHAY(威世)",
+        "Manufacturer Part": "TLMG1100-GS08",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20180719/C241891_3C76D4DD30CDE57601F75DEAAAECA69D.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "b8d632f330b04e1082bec834014ec5e5",
+        "Designator": "LED?",
+        "Footprint": "fd6eb02f82db47788f94b22b7e6502ce",
+        "3D Model": "7761174b67d9475ab0dbce38062fb2f9",
+        "3D Model Title": "LED0603-RD_GREEN",
+        "3D Model Transform": "63.7794,31.496,0,0,0,0,0,0,0",
+        "Mounting Type": "表面贴装",
+        "Illumination Color": "普绿/黄绿",
+        "Correlated Color Temperature - CCT(K)": "-",
+        "Luminous Intensity (IF=20mA)": "35mcd",
+        "Luminous Flux/Radiant Flux": "-",
+        "Dominant Wavelength / Coordinate rank": "570nm",
+        "Name": "={Manufacturer Part}",
+        "Description": "照明颜色:普绿/黄绿;色温 - CCT（K）:-;主波长/色坐标:570nm;"
+      },
+      "description": "照明颜色:普绿/黄绿;色温 - CCT（K）:-;主波长/色坐标:570nm;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "fddd7d64b7f949cd8d3fe71513d21158|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1657743661",
+      "custom_tags": "[\"Optocoupler/LED/Digital Tube/Photoelectric Device\",\"Light Emitting Diodes (LED)\"]"
+    },
+    "0298cc355a1346099b5d6a74f6aad039": {
+      "title": "TS-1088-AR02016",
+      "attributes": {
+        "LCSC Part Name": "4*3*2mm 立贴 轻触开关",
+        "Supplier Part": "C720477",
+        "Manufacturer": "XUNPU(讯普)",
+        "Manufacturer Part": "TS-1088-AR02016",
+        "Supplier Footprint": "SMD",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20200810/C720475_60D09DD6C54279ADDB2DC25100F1CC11.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "adc633e00d774cdc9950f2870bab89ac",
+        "Designator": "SW?",
+        "Footprint": "1800548098ca4f9eb05f70992d902008",
+        "3D Model": "b26698b69f274ffabef8a26c7d0e5dd1",
+        "3D Model Title": "SW-SMD_L3.9-W2.9-H2.0-LS4.8",
+        "3D Model Transform": "188.976,114.174,0,0,0,0,0,0,0",
+        "Contact Current": "50mA",
+        "Voltage Rating (DC)": "12V",
+        "Insulation Resistance": "100MΩ",
+        "Circuit": "单刀单掷",
+        "Mounting Style": "立贴",
+        "Actuator Style": "圆形按钮",
+        "Actuator/Cap Color": "黑色",
+        "Operating Force": "160gf@±50gf",
+        "Mechanical Life": "10万次",
+        "Operating Temperature": "-30℃~+80℃",
+        "Pin Style": "SMD接片",
+        "Switch Length": "4mm",
+        "Switch Width": "3mm",
+        "Switch Height": "2mm",
+        "Strike Gundam": "否",
+        "Name": "={Manufacturer Part}",
+        "Description": "触点电流:50mA;额定电压(DC):12V;绝缘电阻:100MΩ;电路结构:单刀单掷;安装方式:立贴;作用力:160gf@±50gf;机械寿命:10万次;带支架:否;"
+      },
+      "description": "触点电流:50mA;额定电压(DC):12V;绝缘电阻:100MΩ;电路结构:单刀单掷;安装方式:立贴;作用力:160gf@±50gf;机械寿命:10万次;带支架:否;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "https://alimg.szlcsc.com/upload/public/product/middle/20230104/E9F159C25F07F2C77700E1F70F9331B1.jpg",
+      "source": "cff07d923b95482c818b184e98b80db7|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1672393204",
+      "custom_tags": "[\"按键/开关\",\"轻触开关\"]"
+    },
+    "f3437a1e87e54f01bf45e305cff79d28": {
+      "title": "TS4538B3JTP 250gf 121",
+      "attributes": {
+        "LCSC Part Name": "轻触开关 4.5*4.5*3.8mm 250gf 边三脚侧插贴片 卧式",
+        "Supplier Part": "C2906367",
+        "Manufacturer": "SHOU HAN(首韩)",
+        "Manufacturer Part": "TS4538B3JTP 250gf 121",
+        "Supplier Footprint": "SMD",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20211019/CD02DA46ABCD6E05459BB66A2E36F770.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "36c21ebe596a4f73b33450aa0d186e40",
+        "Designator": "SW?",
+        "Footprint": "8b9725c6cd2d4fdba4ea2d836c4e21d7",
+        "3D Model": "6b8aef4daab44ba9a7c5d9752a9a41ec",
+        "3D Model Title": "KEY-SMD_3P-L4.5-W3.8-P3.00-LS4.5-BL",
+        "3D Model Transform": "177.165,169.291,0,180,0,0,0,9.293,-39.37",
+        "Contact Current": "50mA",
+        "Voltage Rating (DC)": "12V",
+        "Insulation Resistance": "100MΩ",
+        "Circuit": "单刀单掷",
+        "Mounting Style": "立贴",
+        "Actuator Style": "圆形按钮",
+        "Actuator/Cap Color": "黑色",
+        "Operating Force": "250gf@±50gf",
+        "Mechanical Life": "50000",
+        "Operating Temperature": "-20℃~+85℃",
+        "Pin Style": "-",
+        "Switch Length": "4.5mm",
+        "Switch Width": "4.5mm",
+        "Switch Height": "3.8mm",
+        "Strike Gundam": "否",
+        "Name": "={Manufacturer Part}",
+        "Description": "触点电流:50mA;额定电压(DC):12V;绝缘电阻:100MΩ;电路结构:单刀单掷;安装方式:立贴;按钮形状:圆形按钮;按钮/盖帽颜色:黑色;作用力:250gf@±50gf;机械寿命:50000;工作温度:-20℃~+85℃;引脚样式:-;开关长度:4.5mm;开关宽度:4.5mm;开关高度:3.8mm;带支架:否;"
+      },
+      "description": "触点电流:50mA;额定电压(DC):12V;绝缘电阻:100MΩ;电路结构:单刀单掷;安装方式:立贴;按钮形状:圆形按钮;按钮/盖帽颜色:黑色;作用力:250gf@±50gf;机械寿命:50000;工作温度:-20℃~+85℃;引脚样式:-;开关长度:4.5mm;开关宽度:4.5mm;开关高度:3.8mm;带支架:否;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "cf0c05302e624f6aab34a737dfe54733|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1654895197",
+      "custom_tags": "[\"Key/Switch\",\"Tactile Switches\"]"
+    },
+    "4a83f0846e3f4a50b1b7cec102ac1944": {
+      "title": "X10B25L30T",
+      "attributes": {
+        "LCSC Part Name": "1mm P数:30 抽屉式 下接 镀锡",
+        "Supplier Part": "C500182",
+        "Manufacturer": "XKB Connectivity(中国星坤)",
+        "Manufacturer Part": "X10B25L30T",
+        "Supplier Footprint": "SMD,P=1mm",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20211011/C16FFC4EB876FDA360008692BDE0DBBC.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "3ecba4022b29466595f65b54dfa3f2ef",
+        "Designator": "FPC?",
+        "Footprint": "6328f50857da4857b5362e75093944d7",
+        "3D Model": "951edb47e57f4e2a9ca044547ff508d9",
+        "3D Model Title": "FPC-SMD_L37.0-W6.8-H2.5-X10B25U30T",
+        "3D Model Transform": "1456.69,265.748,0,0,0,0,0,-70.866,0",
+        "Pitch": "1mm",
+        "Number of Contacts": "30",
+        "Locking Feature": "抽屉式",
+        "Mounting Type": "卧贴",
+        "Contact Type": "下接",
+        "Height Above Board": "2.5mm",
+        "FFC, FCB Thickness": "0.3mm",
+        "Contact Material": "磷青铜",
+        "Contact Plating": "锡",
+        "Operating Temperature Range": "-40℃~+85℃",
+        "Welding Temperature (Max)": "260℃",
+        "Name": "={Manufacturer Part}",
+        "Description": "间距:1mm;触点数量:30;锁定特性:抽屉式;安装类型:卧贴;触点类型:下接;工作温度范围:-40℃~+85℃;焊接温度(最大值):260℃;"
+      },
+      "description": "间距:1mm;触点数量:30;锁定特性:抽屉式;安装类型:卧贴;触点类型:下接;工作温度范围:-40℃~+85℃;焊接温度(最大值):260℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "6439389c0f85410eb85713b24d5258d6|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1657789207",
+      "custom_tags": "[\"Connectors\",\"FFC/FPC Connectors\"]"
+    },
+    "00f4e461f1d0484b96167e344cc60f09": {
+      "title": "X32258MOB4SI",
+      "attributes": {
+        "LCSC Part Name": "8MHz ±10ppm 12pF YSX321SL",
+        "Supplier Part": "C2682775",
+        "Manufacturer": "YXC(扬兴晶振)",
+        "Manufacturer Part": "X32258MOB4SI",
+        "Supplier Footprint": "SMD3225-4P",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20210106/C2682774_0CD4FDA5D9DA3FBEEC23BD607A48E4B0.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "09fe206bbae44d81b15094b9f9f66bca",
+        "Designator": "X?",
+        "Footprint": "8da2b4f7841a4d5dabf4d9749f044a85",
+        "3D Model": "ae22b8d143894765bc8100c37cb6356f",
+        "3D Model Title": "OSC-SMD_4P-L3.2-W2.5-H1.0",
+        "3D Model Transform": "125.984,98.425,0,0,0,0,0,0,0",
+        "Crystal Type": "贴片无源晶振",
+        "Value": "8MHz",
+        "Frequency Tolerance": "±10ppm",
+        "Frequency Stability": "±30ppm",
+        "Load Capacitance": "12pF",
+        "Equivalent Series Resistance (ESR)": "150Ω",
+        "Operating Temperature": "-40℃~+85℃",
+        "Name": "={Value}",
+        "Description": "频率:8MHz;频率公差:±10ppm;负载电容:12pF;"
+      },
+      "description": "频率:8MHz;频率公差:±10ppm;负载电容:12pF;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "https://alimg.szlcsc.com/upload/public/product/middle/20230105/C9CA7F9633565174C9EE51D8F4A716B8.jpg",
+      "source": "00de843983c34cd4b1b42d4790d88933|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1655237252",
+      "custom_tags": "[\"晶振/振荡器/谐振器\",\"无源晶振\"]"
+    },
+    "362415a132a049ff88518f659601612f": {
+      "title": "X50328MSB2GI",
+      "attributes": {
+        "LCSC Part Name": "8MHz ±10ppm 20pF YSX530GA YSX530GA",
+        "Supplier Part": "C115962",
+        "Manufacturer": "YXC(扬兴晶振)",
+        "Manufacturer Part": "X50328MSB2GI",
+        "Supplier Footprint": "SMD5032-2P",
+        "JLCPCB Part Class": "基础库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20230220/0EBFFB9D6D8CE6A211407822BBB6C516.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "c63f231ce76048cfbbcec1a7c986f5db",
+        "Designator": "X?",
+        "Footprint": "dd3fa60c479a4aac9b9bffc7b38dc715",
+        "3D Model": "d7c39c66443246ff83c2003c1e1eb6f1",
+        "3D Model Title": "CRYSTAL-SMD_L5.0-W3.2",
+        "3D Model Transform": "196.85,125.984,0,0,0,0,0,0,0",
+        "Crystal Type": "贴片无源晶振",
+        "Value": "8MHz",
+        "Frequency Tolerance": "±10ppm",
+        "Frequency Stability": "±50ppm",
+        "Load Capacitance": "20pF",
+        "Operating Temperature": "-40℃~+85℃",
+        "Name": "={Value}",
+        "Description": "频率:8MHz;频率公差:±10ppm;负载电容:20pF;"
+      },
+      "description": "频率:8MHz;频率公差:±10ppm;负载电容:20pF;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "https://alimg.szlcsc.com/upload/public/product/middle/20230101/E0A7E44BD399C3C31B31AFB1C6BEE214.jpg",
+      "source": "bed3d633aa75466a80b0c6228b744c89|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1681201394",
+      "custom_tags": "[\"晶振/振荡器/谐振器\",\"无源晶振\"]"
+    },
+    "4c27914cbfd54820b18d2b8a22d29b7d": {
+      "title": "XC6210B332MR_C424705",
+      "attributes": {
+        "LCSC Part Name": "正 Vin=6V Vout=3.3V 900mA 60dB@(1kHz)",
+        "Supplier Part": "C424705",
+        "Manufacturer": "TOREX(特瑞仕)",
+        "Manufacturer Part": "XC6210B332MR",
+        "Supplier Footprint": "SOT-25",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20190903/C424705_1DFB2113A9A78D399905DBF688657204.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "d4e7090fe7c74adebaca6b6c740cb63c",
+        "Designator": "U?",
+        "Footprint": "ddb6be305b514451aac4c60b8b32908c",
+        "3D Model": "b5108020abe84f7bb0f3c398b43b6e0b",
+        "3D Model Title": "TSOT-23-5_L2.9-W1.6-H1.00-LS2.8-P0.95",
+        "3D Model Transform": "110.45568,114.173,0,180,0,0,0,0,0",
+        "Output Type": "固定",
+        "Output Polarity": "正",
+        "Number of Outputs": "1",
+        "Maximum Input Voltage": "6V",
+        "Output Voltage": "3.3V",
+        "Dropout Voltage": "75mV@(100mA)",
+        "Output Current": "900mA",
+        "Power Supply Rejection Ratio (PSRR)": "60dB@(1kHz)",
+        "Name": "={Manufacturer Part}",
+        "Description": "输出类型:固定;输出极性:正;输出通道数:1;最大输入电压:6V;输出电压:3.3V;压差:75mV@(100mA);输出电流:900mA;电源纹波抑制比(PSRR):60dB@(1kHz);"
+      },
+      "description": "输出类型:固定;输出极性:正;输出通道数:1;最大输入电压:6V;输出电压:3.3V;压差:75mV@(100mA);输出电流:900mA;电源纹波抑制比(PSRR):60dB@(1kHz);",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "008fb7c73f29475090194348f8f0ccb6|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1672654802",
+      "custom_tags": "[\"Power Supply Chip\",\"Linear Voltage Regulators (LDO)\"]"
+    },
+    "95f1c5f532ec4fe1881b3b33f60edb39": {
+      "title": "XH-2PWB",
+      "attributes": {
+        "LCSC Part Name": "XH 2.5mm 1x2P 卧贴",
+        "Supplier Part": "C2905024",
+        "Manufacturer": "DEALON(德艺隆)",
+        "Manufacturer Part": "XH-2PWB",
+        "Supplier Footprint": "SMD,P=2.5mm",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20211025/6C2B75DB1AEBD099C7E95723735B67A6.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "fa9d349edc2f427f8d626cb28d4c9b1a",
+        "Designator": "FPC?",
+        "Footprint": "37d798070ecf4d7e9e25a03f6fbd8726",
+        "3D Model": "cdcdbb43a3334b4aa6bd045105a5d458",
+        "3D Model Title": "CONN-SMD_2P-P2.50_DEALON_XH-2PWB_C2905024",
+        "3D Model Transform": "393.7,417.322,0,0,0,0,0,3.74,0",
+        "Reference Series": "XH",
+        "Pitch": "2.5mm",
+        "Pins Structure": "1x2P",
+        "Number of Rows": "1",
+        "Number of PINs Per Row": "2",
+        "Row Spacing": "-",
+        "Gender": "公型插针",
+        "Mounting Style": "卧贴",
+        "Current Rating (Max)": "3A",
+        "Operating Temperature Range": "-25℃~+85℃",
+        "Name": "={Manufacturer Part}",
+        "Description": "参考系列:XH;间距:2.5mm;插针结构:1x2P;排数:1;每排PIN数:2;行距:-;公母:公型插针;安装方式:卧贴;额定电流:3A;工作温度范围:-25℃~+85℃;"
+      },
+      "description": "参考系列:XH;间距:2.5mm;插针结构:1x2P;排数:1;每排PIN数:2;行距:-;公母:公型插针;安装方式:卧贴;额定电流:3A;工作温度范围:-25℃~+85℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "acf17287cfb94130b819f750003e842e|444a38a136055f19c34a4f29b2a501337d91472923e4710a7a1c11e2165999e5",
+      "version": "1658419209",
+      "custom_tags": "[\"Connectors\",\"Wire To Board / Wire To Wire Connector\"]"
+    },
+    "de27ee51b08447efbab3838d944499da": {
+      "title": "Sheet-Symbol_A4",
+      "attributes": {
+        "Symbol": "aa72905e926043ab99ff95407bb9a648",
+        "@Page Name": "",
+        "@Create Date": "",
+        "@Page Count": "",
+        "@Page No": "",
+        "@Project Name": "",
+        "@Schematic Name": "",
+        "@Update Date": "",
+        "Company": "嘉立创EDA",
+        "Device": "",
+        "Drawed": "",
+        "Page Size": "A3",
+        "Part Number": "",
+        "Reviewed": "",
+        "Version": "V1.0",
+        "Footprint": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "4b872d674c0b4b0e8ede0a73cf1a0316|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1664282381",
+      "custom_tags": "[\"\",\"\"]"
+    },
+    "65d397620bef4fd2a18635660643c059": {
+      "title": "TYPE-C 16PIN 2MD(073)",
+      "attributes": {
+        "LCSC Part Name": "TYPE-C母座 16P 4脚插件带定位柱 不锈钢外壳 2次模顶",
+        "Supplier Part": "C2765186",
+        "Manufacturer": "SHOU HAN(首韩)",
+        "Manufacturer Part": "TYPE-C 16PIN 2MD(073)",
+        "Supplier Footprint": "SMD",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "31af068631bc42d58b945eed7eaa3e60",
+        "Designator": "USB?",
+        "Footprint": "74d8f7570de04d14975fdb028a0cade0",
+        "3D Model": "3a41b9ec9b654a0fad4d118405ec6290",
+        "3D Model Title": "USB-C-SMD_TYPE-C-6PIN-2MD-073",
+        "3D Model Transform": "351.9678,298.4246,0,0,0,0,0,-47.244,-35.433",
+        "Connector Type": "Type-C",
+        "Standard": "-",
+        "Gender": "母座",
+        "Number of Contacts": "16",
+        "Number of Ports": "1",
+        "Mounting Style": "卧贴",
+        "Current Rating - Power (Max)": "5A",
+        "Operating Temperature Range": "-25℃~+85℃",
+        "Name": "={Manufacturer Part}",
+        "Description": "连接器类型:Type-C;标准:-;公母:母座;触点数量:16;端口数量:1;安装方式:卧贴;额定电流 - 电源:5A;工作温度范围:-25℃~+85℃;"
+      },
+      "description": "连接器类型:Type-C;标准:-;公母:母座;触点数量:16;端口数量:1;安装方式:卧贴;额定电流 - 电源:5A;工作温度范围:-25℃~+85℃;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "45fb1c7fbc5b42ebbb9f47d092c4f3dc|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1657743674",
+      "custom_tags": "[\"Connectors\",\"USB Connectors\"]"
+    },
+    "4cd3c88c729a4b5db5f7c7831208147b": {
+      "title": "Ground-GND",
+      "attributes": {
+        "Global Net Name": "GND",
+        "Name": "GND",
+        "Symbol": "84844b5cdafd4c27a9fc5934c0422c8d",
+        "3D Model": "",
+        "3D Model Title": "",
+        "3D Model Transform": ""
+      },
+      "description": "",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "9a64ac5790a940f7ae40fc736dc6faff|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1684225550",
+      "custom_tags": "[]"
+    },
+    "0e0df11a59cf4c0aa246163791e62516": {
+      "title": "GRM188R60J476ME15D",
+      "attributes": {
+        "LCSC Part Name": "47uF ±20% 6.3V",
+        "Supplier Part": "C140782",
+        "Manufacturer": "muRata(村田)",
+        "Manufacturer Part": "GRM188R60J476ME15D",
+        "Supplier Footprint": "0603",
+        "JLCPCB Part Class": "扩展库",
+        "Datasheet": "https://atta.szlcsc.com/upload/public/pdf/source/20171113/C140782_15105612981581115778.pdf",
+        "Supplier": "LCSC",
+        "Add into BOM": "yes",
+        "Convert to PCB": "yes",
+        "Symbol": "4e20ed6ac7be4552853821b29d35ea89",
+        "Designator": "C?",
+        "Footprint": "333c1fa45cc84b4ca7bcd410fb987181",
+        "3D Model": "ac125912035d415993ca9572d50418b1",
+        "3D Model Title": "C0603_L1.6-W0.8-H0.8",
+        "3D Model Transform": "62.992,31.496,0,0,0,0,0,0,0",
+        "Value": "47uF",
+        "Tolerance": "±20%",
+        "Voltage Rated": "6.3V",
+        "Temperature Coefficient": "X5R",
+        "Name": "={Value}",
+        "Description": "容值:47uF;精度:±20%;额定电压:6.3V;材质(温度系数):X5R;"
+      },
+      "description": "容值:47uF;精度:±20%;额定电压:6.3V;材质(温度系数):X5R;",
+      "tags": {
+        "parent_tag": [],
+        "child_tag": []
+      },
+      "images": "",
+      "source": "b5994ec2aaa04033962c6bb7558eeb9b|0819f05c4eef4c71ace90d822a990e87",
+      "version": "1658259907",
+      "custom_tags": "[\"Capacitors\",\"Multilayer Ceramic Capacitors MLCC - SMD/SMT\"]"
+    }
+  },
+  "boards": {
+    "Mini打印机V1": {
+      "schematic": "dcd7ddee3418402db00db31b6ddd4e1f",
+      "pcb": "45e5d99a645446498e4c6d9872ddbb4c"
+    }
+  },
+  "config": {
+    "title": "打印机_STM32版本",
+    "cbbProject": 0,
+    "defaultSheet": "",
+    "editorVersion": "1.8.39.fb3963"
+  }
+}
